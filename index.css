@@ -1,0 +1,45 @@
+ul {
+  list-style-type: none;
+  padding:0;
+  display: flex;
+  border: 1px solid;
+  width:50%;
+  justify-content: space-around;
+  padding:10px 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+li {
+  padding:10px;
+  
+  background-color: lightskyblue;
+  width: fit-content;
+  border-radius: 5px;
+}
+
+.container {
+  display: flex;
+  /* flex-flow:row wrap; */
+  width:500px;
+  border:1px solid;
+  padding:10px;
+}
+
+.item{
+  background-color: aliceblue;
+  padding:20px;
+  width:100px;
+}
+
+.item:last-child{
+
+  background-color: skyblue;
+}
+
+.grow {
+ flex-grow:1;
+}
