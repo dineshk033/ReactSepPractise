@@ -1,0 +1,70 @@
+.container {
+  padding: 25px;
+}
+
+.icon-box {
+  border: 1px solid tomato;
+  padding: 5px;
+  border-radius: 5px;
+  width: fit-content;
+  margin-right: 15px;
+}
+
+.text-primary {
+  color: tomato;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+}
+
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list {
+  list-style-type: none;
+  padding: 5px;
+  margin: 5px;
+  color: white;
+  background-color: coral;
+  flex-grow: 1;
+}
+
+.item {
+  flex: 1;
+  text-align: center;
+  border-right: 3px solid white;
+}
+
+.item:last-child {
+  border: none;
+}
+.flex {
+  display: flex;
+}
+
+.btn {
+  border: none;
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.w-75 {
+  width: 75%;
+}
+
+.ml-15 {
+  margin-left: 15px;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.justify {
+  justify-content: space-between;
+}

@@ -1,0 +1,67 @@
+.container {
+  height: 700px;
+  width:500px;
+  border:1px solid skyblue;
+}
+
+header{
+  width:500px;
+  height:100px;
+  position: absolute;
+  bottom:100px;
+  right:80px;
+  background-color: cornflowerblue;
+}
+
+.main{
+  background-color: cornsilk;
+  width: 500px;
+height:500px;
+  /* flex-grow:1; */
+}
+
+.footer{
+  width: 500px;
+  height:100px;
+  background-color: deepskyblue;
+}
+
+
+.flex{
+position: relative;
+overflow: auto;
+}
+
+.empty{
+  width:100%;
+  height:200px;
+}
+
+.one{
+width:100px;
+height:100px;
+position: absolute;
+top:50%;
+left:100px;
+z-index: 2;
+background-color: cornflowerblue;
+}
+
+.two{
+  width: 80px;
+    height: 100px;
+    position: absolute;
+      top: 50%;
+      left: 100px;
+      z-index: 3;
+    background-color: deepskyblue;
+}
+.three {
+  width:100px;
+  height:100px;
+      top: 320px;
+        right: 0;
+        z-index: 7;
+        position: fixed;
+  background-color: aqua;
+}
