@@ -48,6 +48,11 @@
   display: flex;
 }
 
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
 .btn {
   border: none;
   background-color: tomato;
@@ -76,6 +81,46 @@ html {
   font-size: 20px;
 }
 
+.title-section {
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+  width: 70%;
+  align-items: center;
+  margin: auto;
+  justify-content: space-evenly;
+}
+.icon-show {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.bookingViewSection {
+  width: 100%;
+  margin-top: 10px;
+  border-bottom: 3px solid black;
+}
+
+.search-bar {
+  width: 80%;
+}
+.input {
+  border: none;
+  padding: 10px;
+  outline: none;
+}
+
+.btn-search {
+  border: none;
+  padding: 10px;
+}
+
+.border-search {
+  border: 1px solid lavender;
+  border-radius: 5px 0 0 5px;
+  padding: 0 10px;
+  flex: 1;
+}
 /*only mobile apply 10px font-size*/
 @media screen and (max-width: 500px) {
   html {
