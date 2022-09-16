@@ -30,16 +30,19 @@
   color: white;
   background-color: coral;
   flex-grow: 1;
+  font-size: 25px;
 }
 
 .item {
   flex: 1;
+  font-size: 1rem;
   text-align: center;
   border-right: 3px solid white;
 }
 
 .item:last-child {
   border: none;
+  font-size: 1rem;
 }
 .flex {
   display: flex;
@@ -67,4 +70,45 @@
 
 .justify {
   justify-content: space-between;
+}
+
+html {
+  font-size: 20px;
+}
+
+/*only mobile apply 10px font-size*/
+@media screen and (max-width: 500px) {
+  html {
+    font-size: 12px !important;
+  }
+  .hamburger {
+    display: block;
+  }
+}
+
+/* only tablet 14px 500-790  max-wdth:600px*/
+@media screen and (min-width: 500px) and (max-width: 790px) {
+  html {
+    font-size: 14px;
+  }
+  .hamburger {
+    display: none;
+  }
+}
+
+/* only laptop 20px >800*/
+@media screen and (min-width: 800px) {
+  html {
+    font-size: 20px;
+  }
+  .hamburger {
+    display: none;
+  }
+}
+
+/*only mobile apply 10px font-size*/
+@media screen and (max-width: 500px) {
+  nav {
+    display: none !important;
+  }
 }
