@@ -1,0 +1,37 @@
+div {
+  width: 50%;
+  height: 300px;
+  border: 1px solid;
+}
+
+div > section {
+  min-width: 50px;
+  min-height: 50px;
+  background-color: skyblue;
+}
+
+section:nth-child(even) {
+  background-color: tomato;
+}
+
+.grid {
+  display: grid;
+  grid-template-areas:
+    "sample sample sample sample sample"
+    "aside aside content content content"
+    "aside aside content content content";
+  grid-template-rows: 100px 150px 200px;
+  grid-template-columns: repeat(5, 120px);
+  gap: 10px 5px;
+}
+
+section:nth-child(1) {
+  grid-area: sample;
+}
+
+section:nth-child(2) {
+  grid-area: aside;
+}
+section:nth-child(2) {
+  grid-area: content;
+}
