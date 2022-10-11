@@ -63,3 +63,57 @@ for (let value of pract) {
   outPract.unshift(value);
 }
 console.log(outPract);
+
+/**
+ * find even and odd and splt in separate arrays
+ */
+
+function splitarrays(arg) {
+  const even = [];
+  const odd = [];
+
+  for (let value of arg) {
+    if (value % 2 === 0) {
+      even.push(value);
+    } else {
+      odd.push(value);
+    }
+  }
+
+  return [even, odd];
+}
+
+const response = splitarrays([1, 2, 5, 7, 6, 10]);
+
+console.log(response);
+
+/***
+ * outPract = [5,4,3,2,1]
+ * splice(startIndex,deletecount,elemen,,,,,elemnt-N) -> it will affect original array
+ * delete values from 1st index to 3 deletecount -> splice(1,3)
+ * we need insert record(1,2,3) before 1st index without delete any values-> splice(1,0,1,2,3)
+ * we need to delete 1st index record and insert 1,4 values -> splice(1,1,1,4)
+ */
+
+outPract.splice(1, 3); // output:[5,1]
+outPract.splice(1, 0, 1, 2, 3, 4); //ouput:[5, 1, 2, 3, 4, 1]
+outPract.splice(0, 1, 0); //output:[0,1,2,3,4,1]
+console.log(outPract);
+
+/**
+ * [0,1,2,3,4,1]
+ * slice(start,end)-> return new array without affect parent;
+ * slice(start)-> from starting index to end index values returned
+ * slice(-value)-> consider from the end
+ */
+
+const spl = outPract.slice(1);
+console.log(spl, outPract);
+const conc = ["default"];
+
+/**
+ * concat -> create new array from two or more arrays
+ */
+const res = conc.concat([1, 2, 3], [10, 20, 30], ["a", "b", "c"]);
+
+console.log(res, conc);
