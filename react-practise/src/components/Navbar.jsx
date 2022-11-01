@@ -1,4 +1,9 @@
+const LIST = ["Mutton", "CHicken", "Prawn", "Fish"];
+
 export const Navbar = (props) => {
+  const handleIteration = () => {
+    return LIST.map((value) => <Avatar key={value} name={value} />);
+  };
   return (
     <div>
       <ul>
@@ -7,8 +12,10 @@ export const Navbar = (props) => {
         <li>{props.userName}</li>
         <li>{props.age}</li>
       </ul>
-      <Avatar name="Chcikcen" />
-      <Avatar name="Mutton" />
+      {LIST.map((value) => (
+        <Avatar key={value} name={value} />
+      ))}
+      {handleIteration()}
     </div>
   );
 };
