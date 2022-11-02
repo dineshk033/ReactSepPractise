@@ -31,3 +31,11 @@ code {
 .justifyContentbtn {
   justify-content: space-between;
 }
+
+.success {
+  color: green;
+}
+
+.fail {
+  color: red;
+}

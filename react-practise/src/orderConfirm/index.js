@@ -1,10 +1,8 @@
 import OrderItem from "./orderItem";
 import "./index.css";
 import React from "react";
-import Counter from "../components/counter";
-import CounterTask from "../components/counterTask";
-import { Navbar } from "../components/Navbar";
-import Iterate from "../components/iterate";
+
+import ListGroup from "../components/callbackEvent";
 const ORDERLIST = [
   { title: "Chicken Briyani", price: "15.00", qty: 1 },
   { title: "Mutton Briyani", price: "25.00", qty: 1 },
@@ -26,9 +24,7 @@ class Container extends React.Component {
   render() {
     return (
       <div className="OrderSummaryContainer ">
-        <Counter incr={2} />
-        <CounterTask />
-        <Iterate />
+        <ListGroup />
         <h2>Confirma Order</h2>
         <hr />
         <OrderItem {...this.state.ORDERLIST[0]} />
