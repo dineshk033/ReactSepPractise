@@ -1,4 +1,6 @@
 import React from "react";
+import Button from "../components/Button";
+import ConditionComponent from "../components/condition";
 import YourTodo from "./pending";
 import { ContainerTodo } from "./styled";
 
@@ -22,6 +24,8 @@ class Todo extends React.Component {
     return (
       <ContainerTodo>
         <h4>Todo App</h4>
+        <ConditionComponent />
+        <Button label={"Submit"}>Record</Button>
         <YourTodo
           list={this.state.pending}
           handleComplete={this.handleComplete}

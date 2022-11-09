@@ -1,0 +1,4697 @@
+{
+  "results": [
+    {
+      "hits": [
+        {
+          "product_code": 591755680,
+          "in_stock": 1,
+          "thumbnail_url": "images/product/330x410/rvzynqqavf/axter-casual-shoes-product-images-rvzynqqavf-0-202205310845.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "AXTER",
+          "url_path": "/p/fashion/axter-casual-shoes/591755680",
+          "level1_search_keys": "",
+          "manufacturer_id": 8320,
+          "image_url": "images/product/330x410/rvzynqqavf/axter-casual-shoes-product-images-rvzynqqavf-0-202205310845.jpg",
+          "max_qty_in_order": 5,
+          "manufacturer_name": "AGGARWAL STEEL TRADERS",
+          "display_name": "Amazing Collection of Combo Pack of 2 Multicolor Combo-(2)-9273-5013 Trendy & Stylish Casual Sneakers Shoes",
+          "brand_id": 8090,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvzynqqavf/axter-casual-shoes-product-images-rvzynqqavf-0-202205310845.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [
+            1, 3, 496, 623, 1480, 2071, 3455, 7808, 7866, 9555, 11610, 11614,
+            12034, 12038
+          ],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": [
+              "Category > Fashion > Men > Footwear > Casual Shoes",
+              "Category > Fashion > Best Deals > Up to 60% Off on Western Wear",
+              "Category > Fashion > Best Deals > Full Paisa Vasool Men's Fashion Deals",
+              "Category > Fashion > Best Deals > fashion-dotd-trs",
+              "Category > Fashion > Best Deals > mens_casual_04_10_07",
+              "Category > Fashion > Best Deals > mens_ethnic_04_10_07",
+              "Category > Fashion > Best Deals > fashion_store_hpmc_deals_day_12_10_08",
+              "Category > Top Best Deals > bestival_14_16_sale"
+            ],
+            "level1": [
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion"
+            ],
+            "level0": [
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category"
+            ],
+            "level3": [
+              "Category > Fashion > Men > Footwear",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals"
+            ],
+            "level2": ["Category > Fashion > Men", "Category > Top Best Deals"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 998.0,
+          "avg_selling_price": 399.0,
+          "avg_discount_rate": 0.6,
+          "avg_discount": 599,
+          "avg_discount_pct": 60,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 60,
+              "promo_description": "",
+              "price": 399.0,
+              "available": true,
+              "discount": 599.0,
+              "mrp": 998.0,
+              "max_qty_in_order": 5,
+              "tag": "",
+              "discount_rate": 0.6
+            }
+          },
+          "option_code": "RC1SIEDGMG_Multicolor",
+          "colour": "Multicolor",
+          "size": "UK 10",
+          "swatch_image": "images/product/original/rvzynqqavf/axter-casual-shoes-swatch-rvzynqqavf--1-202205310846.jpg",
+          "category_type": {
+            "9555": "virtual",
+            "1480": "main",
+            "2071": "main",
+            "7808": "virtual",
+            "11614": "virtual",
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "3455": "virtual",
+            "623": "virtual",
+            "7866": "virtual",
+            "12034": "virtual",
+            "11610": "virtual",
+            "12038": "virtual"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["1213"],
+          "common_attributes": {},
+          "alternate_product_code": "RVZYNQQAVF",
+          "available_at_3p_seller": true,
+          "seller_names": ["AGGARWAL STEEL TRADERS  BUILDING MATERIAL"],
+          "algolia_facet": {},
+          "itemId": 3390987,
+          "popularity": 9999.89,
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "uom_for_price_compare_factor": 0.0,
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "591755680",
+          "_highlightResult": {
+            "product_code": {
+              "value": "591755680",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "AXTER",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Amazing Collection of Combo Pack of 2 Multicolor Combo-(2)-9273-5013 Trendy & Stylish Casual Sneakers Shoes",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Multicolor",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "AGGARWAL STEEL TRADERS  BUILDING MATERIAL",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 591295477,
+          "in_stock": 1,
+          "search_keywords": "casual shoes,men",
+          "thumbnail_url": "images/product/330x410/rvqruqvbpo/aadi-black-casuals-men-product-images-rvqruqvbpo-0-202205132104.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Aadi",
+          "url_path": "/p/fashion/aadi-black-casuals-men/591295477",
+          "level1_search_keys": "",
+          "manufacturer_id": 8333,
+          "image_url": "images/product/330x410/rvqruqvbpo/aadi-black-casuals-men-product-images-rvqruqvbpo-0-202205132104.jpg",
+          "max_qty_in_order": 2,
+          "manufacturer_name": "Dadwanis Footwear Pvt Ltd",
+          "display_name": "Aadi Black Casuals Men",
+          "brand_id": 8106,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvqruqvbpo/aadi-black-casuals-men-product-images-rvqruqvbpo-0-202205132104.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [
+            1, 3, 496, 623, 1480, 2071, 3455, 7391, 7768, 7802, 7866, 9446,
+            9447, 9448, 9449, 9450, 9451, 9541, 9543, 9548, 9549, 9550, 9552,
+            9555, 11610, 11614, 12034, 12038
+          ],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": [
+              "Category > Fashion > Men > Footwear > Casual Shoes",
+              "Category > Fashion > Best Deals > Mensffbau",
+              "Category > Fashion > Best Deals > Men's Fashion",
+              "Category > Fashion > Best Deals > Flat 60% Off on Fashion",
+              "Category > Fashion > Best Deals > Full Paisa Vasool Men's Fashion Deals",
+              "Category > Fashion > Best Deals > Under_299_22_09_07",
+              "Category > Fashion > Best Deals > Under_499_22_09_07",
+              "Category > Fashion > Best Deals > Under_699_22_09_07",
+              "Category > Fashion > Best Deals > Flat_50_22_09_07",
+              "Category > Fashion > Best Deals > Flat_60_22_09_07",
+              "Category > Fashion > Best Deals > Flat_70_22_09_07",
+              "Category > Fashion > Best Deals > Dress_Upto_Nines_Kids_Wear_23_09_04",
+              "Category > Fashion > Best Deals > Dress_Upto_Nines_Mens_Footwear_23_09_04",
+              "Category > Fashion > Best Deals > Steal_Deals_Bargain_StoreMin._60_Off_23_09_04",
+              "Category > Fashion > Best Deals > Steal_Deals_Bargain_StorePrice_Dropped_to_299_23_09_04",
+              "Category > Fashion > Best Deals > Steal_Deals_Bargain_StorePrice_Dropped_to_499_23_09_04",
+              "Category > Fashion > Best Deals > Top_Categories-_Fashion_12Footwear_&_Accessories_23_09_04",
+              "Category > Fashion > Best Deals > fashion-dotd-trs",
+              "Category > Fashion > Best Deals > mens_casual_04_10_07",
+              "Category > Fashion > Best Deals > mens_ethnic_04_10_07",
+              "Category > Fashion > Best Deals > fashion_store_hpmc_deals_day_12_10_08",
+              "Category > Top Best Deals > bestival_14_16_sale"
+            ],
+            "level1": [
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion"
+            ],
+            "level0": [
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category"
+            ],
+            "level3": [
+              "Category > Fashion > Men > Footwear",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals"
+            ],
+            "level2": ["Category > Fashion > Men", "Category > Top Best Deals"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 999.0,
+          "avg_selling_price": 279.0,
+          "avg_discount_rate": 0.72,
+          "avg_discount": 720,
+          "avg_discount_pct": 72,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 72,
+              "promo_description": "",
+              "price": 279.0,
+              "available": true,
+              "discount": 720.0,
+              "mrp": 999.0,
+              "max_qty_in_order": 2,
+              "tag": "",
+              "discount_rate": 0.72
+            }
+          },
+          "option_code": "RC5ZMGNDF6_Black",
+          "colour": "Black",
+          "size": "UK 9",
+          "swatch_image": "images/product/original/rvqruqvbpo/aadi-black-casuals-men-swatch-rvqruqvbpo--1-202205132105.png",
+          "category_type": {
+            "9543": "virtual",
+            "9541": "virtual",
+            "9447": "virtual",
+            "9448": "virtual",
+            "9446": "virtual",
+            "1480": "main",
+            "2071": "main",
+            "496": "main",
+            "3455": "virtual",
+            "12034": "virtual",
+            "12038": "virtual",
+            "9552": "virtual",
+            "9555": "virtual",
+            "9450": "virtual",
+            "7391": "virtual",
+            "9451": "virtual",
+            "9550": "virtual",
+            "11614": "virtual",
+            "1": "main",
+            "3": "main",
+            "623": "virtual",
+            "7866": "virtual",
+            "7802": "virtual",
+            "9449": "virtual",
+            "9548": "virtual",
+            "7768": "virtual",
+            "9549": "virtual",
+            "11610": "virtual"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["1231"],
+          "common_attributes": {},
+          "alternate_product_code": "RVQRUQVBPO",
+          "available_at_3p_seller": true,
+          "seller_names": ["DADWANI'S FOOTWEAR PRIVATE LIMITED"],
+          "algolia_facet": {},
+          "itemId": 2947656,
+          "popularity": 9999.61,
+          "uom_for_price_compare_factor": 1.0,
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "591295477",
+          "_highlightResult": {
+            "product_code": {
+              "value": "591295477",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "casual shoes,men",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Aadi",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Aadi Black Casuals Men",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Black",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 591088075,
+          "in_stock": 1,
+          "search_keywords": "Breathable,free-moving fabrics",
+          "thumbnail_url": "images/product/330x410/rvwgvhswgi/brd-632_7-product-images-rvwgvhswgi-0-202202270701.jpg",
+          "level2_search_keys": "",
+          "popularity": 9997.55,
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Birde",
+          "url_path": "/p/fashion/maroon-casual-shoes-sneakers-for-men/591088075",
+          "level1_search_keys": "",
+          "manufacturer_id": 8003,
+          "image_url": "images/product/330x410/rvwgvhswgi/brd-632_7-product-images-rvwgvhswgi-0-202202270701.jpg",
+          "max_qty_in_order": 10,
+          "manufacturer_name": "Auvio Enterprises",
+          "display_name": "Birde Men's Maroon Casual Shoes",
+          "brand_id": 7761,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvwgvhswgi/brd-632_7-product-images-rvwgvhswgi-0-202202270701.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [
+            1, 3, 496, 623, 1480, 2071, 7391, 7802, 7866, 9446, 9447, 9448,
+            9449, 9450, 9451, 9541, 9543, 9548, 9549, 9550, 9552
+          ],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": [
+              "Category > Fashion > Men > Footwear > Casual Shoes",
+              "Category > Fashion > Best Deals > Mensffbau",
+              "Category > Fashion > Best Deals > Flat 60% Off on Fashion",
+              "Category > Fashion > Best Deals > Full Paisa Vasool Men's Fashion Deals",
+              "Category > Fashion > Best Deals > Under_299_22_09_07",
+              "Category > Fashion > Best Deals > Under_499_22_09_07",
+              "Category > Fashion > Best Deals > Under_699_22_09_07",
+              "Category > Fashion > Best Deals > Flat_50_22_09_07",
+              "Category > Fashion > Best Deals > Flat_60_22_09_07",
+              "Category > Fashion > Best Deals > Flat_70_22_09_07",
+              "Category > Fashion > Best Deals > Dress_Upto_Nines_Kids_Wear_23_09_04",
+              "Category > Fashion > Best Deals > Dress_Upto_Nines_Mens_Footwear_23_09_04",
+              "Category > Fashion > Best Deals > Steal_Deals_Bargain_StoreMin._60_Off_23_09_04",
+              "Category > Fashion > Best Deals > Steal_Deals_Bargain_StorePrice_Dropped_to_299_23_09_04",
+              "Category > Fashion > Best Deals > Steal_Deals_Bargain_StorePrice_Dropped_to_499_23_09_04",
+              "Category > Fashion > Best Deals > Top_Categories-_Fashion_12Footwear_&_Accessories_23_09_04"
+            ],
+            "level1": [
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion"
+            ],
+            "level0": [
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category"
+            ],
+            "level3": [
+              "Category > Fashion > Men > Footwear",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals"
+            ],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 999.0,
+          "avg_selling_price": 279.0,
+          "avg_discount_rate": 0.72,
+          "avg_discount": 720,
+          "avg_discount_pct": 72,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 72,
+              "promo_description": "",
+              "price": 279.0,
+              "available": true,
+              "discount": 720.0,
+              "mrp": 999.0,
+              "max_qty_in_order": 10,
+              "tag": "",
+              "discount_rate": 0.72
+            }
+          },
+          "option_code": "RC4HIGYUEJ_Maroon",
+          "colour": "Maroon",
+          "size": "UK 7",
+          "swatch_image": "images/product/original/rvwgvhswgi/maroon-casual-shoes-sneakers-for-men-swatch-rvwgvhswgi--1-202202250746.png",
+          "category_type": {
+            "9543": "virtual",
+            "9541": "virtual",
+            "9552": "virtual",
+            "9447": "virtual",
+            "9448": "virtual",
+            "9446": "virtual",
+            "1480": "main",
+            "9450": "virtual",
+            "7391": "virtual",
+            "9451": "virtual",
+            "9550": "virtual",
+            "2071": "main",
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "623": "virtual",
+            "7866": "virtual",
+            "7802": "virtual",
+            "9449": "virtual",
+            "9548": "virtual",
+            "9549": "virtual"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["966"],
+          "common_attributes": {},
+          "alternate_product_code": "RVWGVHSWGI",
+          "available_at_3p_seller": true,
+          "seller_names": ["AUVIO ENTERPRISES"],
+          "algolia_facet": {},
+          "itemId": 2316802,
+          "uom_for_price_compare_factor": 1.0,
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "591088075",
+          "_highlightResult": {
+            "product_code": {
+              "value": "591088075",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "Breathable,free-moving fabrics",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Birde",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Birde Men's Maroon Casual Shoes",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Maroon",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "AUVIO ENTERPRISES",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 593600008,
+          "in_stock": 1,
+          "thumbnail_url": "images/product/330x410/rvsv5cco5s/robbie-jones-white-sneakers-for-men-product-images-rvsv5cco5s-0-202209031736.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "Casual-Shoes",
+          "sold_qty_for_rank": 0,
+          "brand": "Robbie Jones",
+          "url_path": "/p/fashion/robbie-jones-white-sneakers-for-men/593600008",
+          "level1_search_keys": "",
+          "manufacturer_id": 14765,
+          "image_url": "images/product/330x410/rvsv5cco5s/robbie-jones-white-sneakers-for-men-product-images-rvsv5cco5s-0-202209031736.jpg",
+          "max_qty_in_order": 5,
+          "manufacturer_name": "Youth Icon Shoes",
+          "display_name": "Robbie Jones White Sneakers for Men",
+          "brand_id": 13396,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvsv5cco5s/robbie-jones-white-sneakers-for-men-product-images-rvsv5cco5s-0-202209031736.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [1, 3, 496, 1480, 2071],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": ["Category > Fashion > Men > Footwear > Casual Shoes"],
+            "level1": ["Category > Fashion"],
+            "level0": ["Category"],
+            "level3": ["Category > Fashion > Men > Footwear"],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 999.0,
+          "avg_selling_price": 449.0,
+          "avg_discount_rate": 0.55,
+          "avg_discount": 550,
+          "avg_discount_pct": 55,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 55,
+              "promo_description": "",
+              "price": 449.0,
+              "available": true,
+              "discount": 550.0,
+              "mrp": 999.0,
+              "max_qty_in_order": 5,
+              "tag": "",
+              "discount_rate": 0.55
+            }
+          },
+          "option_code": "RCEXWFL6FF_White",
+          "colour": "White",
+          "size": "UK 7",
+          "swatch_image": "images/product/original/rvsv5cco5s/robbie-jones-white-sneakers-for-men-swatch-rvsv5cco5s--1-202209031736.png",
+          "category_type": {
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "1480": "main",
+            "2071": "main"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["5602"],
+          "common_attributes": {},
+          "alternate_product_code": "RVSV5CCO5S",
+          "available_at_3p_seller": true,
+          "seller_names": ["Youth Icon Shoes"],
+          "uom_for_price_compare_factor": 1.0,
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "algolia_facet": {},
+          "itemId": 5124415,
+          "popularity": 9997.12,
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "593600008",
+          "_highlightResult": {
+            "product_code": {
+              "value": "593600008",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "Casual-Shoes",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Robbie Jones",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Robbie Jones White Sneakers for Men",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "White",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "Youth Icon Shoes",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 591596567,
+          "in_stock": 1,
+          "thumbnail_url": "images/product/330x410/rvzoadyhwz/t-rock-stylish-white-casual-sneakers-shoes-men-and-boys-sneakers-for-men-white-product-images-rvzoadyhwz-0-202205252154.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "T-Rock",
+          "url_path": "/p/fashion/t-rock-stylish-white-casual-sneakers-shoes-men-and-boys-sneakers-for-men-white/591596567",
+          "level1_search_keys": "",
+          "manufacturer_id": 11287,
+          "image_url": "images/product/330x410/rvzoadyhwz/t-rock-stylish-white-casual-sneakers-shoes-men-and-boys-sneakers-for-men-white-product-images-rvzoadyhwz-0-202205252154.jpg",
+          "max_qty_in_order": 20,
+          "manufacturer_name": "SD Enterprises",
+          "display_name": "T-Rock Stylish Men's White Casual Shoes",
+          "brand_id": 10273,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvzoadyhwz/t-rock-stylish-white-casual-sneakers-shoes-men-and-boys-sneakers-for-men-white-product-images-rvzoadyhwz-0-202205252154.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [
+            1, 3, 496, 623, 1480, 2071, 3455, 7808, 7866, 8782, 8881, 9358,
+            9425, 9447, 9448, 9449, 9450, 9451, 9541, 9543, 9548, 9550, 9552,
+            9555, 9564
+          ],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": [
+              "Category > Fashion > Men > Footwear > Casual Shoes",
+              "Category > Fashion > Best Deals > Up to 60% Off on Western Wear",
+              "Category > Fashion > Best Deals > Full Paisa Vasool Men's Fashion Deals",
+              "Category > Top Best Deals > Bestsellers of the Season_19_09_0",
+              "Category > Top Best Deals > Killer Deals_09_20_01",
+              "Category > Fashion > Best Deals > HPMC_12_Killer_Deals_22_09_04",
+              "Category > Fashion > Best Deals > Banner_Hot_Picks_of_the_season_22_09_07",
+              "Category > Fashion > Best Deals > Under_499_22_09_07",
+              "Category > Fashion > Best Deals > Under_699_22_09_07",
+              "Category > Fashion > Best Deals > Flat_50_22_09_07",
+              "Category > Fashion > Best Deals > Flat_60_22_09_07",
+              "Category > Fashion > Best Deals > Flat_70_22_09_07",
+              "Category > Fashion > Best Deals > Dress_Upto_Nines_Kids_Wear_23_09_04",
+              "Category > Fashion > Best Deals > Dress_Upto_Nines_Mens_Footwear_23_09_04",
+              "Category > Fashion > Best Deals > Steal_Deals_Bargain_StoreMin._60_Off_23_09_04",
+              "Category > Fashion > Best Deals > Steal_Deals_Bargain_StorePrice_Dropped_to_499_23_09_04",
+              "Category > Fashion > Best Deals > Top_Categories-_Fashion_12Footwear_&_Accessories_23_09_04",
+              "Category > Fashion > Best Deals > fashion-dotd-trs",
+              "Category > Fashion > Best Deals > top_killer_deals_top_26_09_04"
+            ],
+            "level1": [
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion"
+            ],
+            "level0": [
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category"
+            ],
+            "level3": [
+              "Category > Fashion > Men > Footwear",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals"
+            ],
+            "level2": [
+              "Category > Fashion > Men",
+              "Category > Top Best Deals",
+              "Category > Top Best Deals"
+            ]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 999.0,
+          "avg_selling_price": 399.0,
+          "avg_discount_rate": 0.6,
+          "avg_discount": 600,
+          "avg_discount_pct": 60,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 60,
+              "promo_description": "",
+              "price": 399.0,
+              "available": true,
+              "discount": 600.0,
+              "mrp": 999.0,
+              "max_qty_in_order": 20,
+              "tag": "",
+              "discount_rate": 0.6
+            }
+          },
+          "option_code": "RC7EVXQRJB_White",
+          "colour": "White",
+          "size": "UK 10",
+          "swatch_image": "images/product/original/rvzoadyhwz/t-rock-stylish-white-casual-sneakers-shoes-men-and-boys-sneakers-for-men-white-swatch-rvzoadyhwz--1-202205252154.png",
+          "category_type": {
+            "9564": "virtual",
+            "9543": "virtual",
+            "9541": "virtual",
+            "9425": "virtual",
+            "9447": "virtual",
+            "9448": "virtual",
+            "1480": "main",
+            "2071": "main",
+            "496": "main",
+            "3455": "virtual",
+            "8782": "virtual",
+            "8881": "virtual",
+            "9552": "virtual",
+            "9555": "virtual",
+            "9358": "virtual",
+            "9450": "virtual",
+            "9451": "virtual",
+            "9550": "virtual",
+            "7808": "virtual",
+            "1": "main",
+            "3": "main",
+            "623": "virtual",
+            "7866": "virtual",
+            "9449": "virtual",
+            "9548": "virtual"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["2808"],
+          "common_attributes": {},
+          "alternate_product_code": "RVZOADYHWZ",
+          "available_at_3p_seller": true,
+          "seller_names": ["sd enterprises"],
+          "algolia_facet": {},
+          "itemId": 3239425,
+          "popularity": 9995.83,
+          "uom_for_price_compare_factor": 1.0,
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "591596567",
+          "_highlightResult": {
+            "product_code": {
+              "value": "591596567",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "T-Rock",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "T-Rock Stylish Men's White Casual Shoes",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "White",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "sd enterprises",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 591132584,
+          "in_stock": 1,
+          "thumbnail_url": "images/product/330x410/rvuo5gml4x/hotstyle-fashion-black-casual-shoe-for-menss-product-images-rvuo5gml4x-0-202202262008.jpg",
+          "level2_search_keys": "",
+          "popularity": 9995.78,
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "HOTSTYLE",
+          "url_path": "/p/fashion/hotstyle-fashion-black-casual-shoe-for-menss/591132584",
+          "level1_search_keys": "",
+          "manufacturer_id": 8235,
+          "image_url": "images/product/330x410/rvuo5gml4x/hotstyle-fashion-black-casual-shoe-for-menss-product-images-rvuo5gml4x-0-202202262008.jpg",
+          "max_qty_in_order": 1,
+          "manufacturer_name": "HOTSTYLE PRODUCTS",
+          "display_name": "HOTSTYLE Black Casual Shoe For Mens",
+          "brand_id": 8004,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvuo5gml4x/hotstyle-fashion-black-casual-shoe-for-menss-product-images-rvuo5gml4x-0-202202262008.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [
+            1, 3, 496, 623, 1480, 2071, 3455, 6081, 7391, 7768, 7808, 9446,
+            9447, 9448, 9449, 9450, 9541, 9543, 9548, 9549, 9550, 9552, 9555
+          ],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": [
+              "Category > Fashion > Men > Footwear > Casual Shoes",
+              "Category > Top Best Deals > bestselling_12_05",
+              "Category > Fashion > Best Deals > Mensffbau",
+              "Category > Fashion > Best Deals > Men's Fashion",
+              "Category > Fashion > Best Deals > Up to 60% Off on Western Wear",
+              "Category > Fashion > Best Deals > Under_299_22_09_07",
+              "Category > Fashion > Best Deals > Under_499_22_09_07",
+              "Category > Fashion > Best Deals > Under_699_22_09_07",
+              "Category > Fashion > Best Deals > Flat_50_22_09_07",
+              "Category > Fashion > Best Deals > Flat_60_22_09_07",
+              "Category > Fashion > Best Deals > Dress_Upto_Nines_Kids_Wear_23_09_04",
+              "Category > Fashion > Best Deals > Dress_Upto_Nines_Mens_Footwear_23_09_04",
+              "Category > Fashion > Best Deals > Steal_Deals_Bargain_StoreMin._60_Off_23_09_04",
+              "Category > Fashion > Best Deals > Steal_Deals_Bargain_StorePrice_Dropped_to_299_23_09_04",
+              "Category > Fashion > Best Deals > Steal_Deals_Bargain_StorePrice_Dropped_to_499_23_09_04",
+              "Category > Fashion > Best Deals > Top_Categories-_Fashion_12Footwear_&_Accessories_23_09_04",
+              "Category > Fashion > Best Deals > fashion-dotd-trs"
+            ],
+            "level1": [
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion"
+            ],
+            "level0": [
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category"
+            ],
+            "level3": [
+              "Category > Fashion > Men > Footwear",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals"
+            ],
+            "level2": ["Category > Fashion > Men", "Category > Top Best Deals"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 499.0,
+          "avg_selling_price": 299.0,
+          "avg_discount_rate": 0.4,
+          "avg_discount": 200,
+          "avg_discount_pct": 40,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 40,
+              "promo_description": "",
+              "price": 299.0,
+              "available": true,
+              "discount": 200.0,
+              "mrp": 499.0,
+              "max_qty_in_order": 1,
+              "tag": "",
+              "discount_rate": 0.4
+            }
+          },
+          "option_code": "RCVQGTFWAO_Black",
+          "colour": "Black",
+          "size": "UK 9",
+          "swatch_image": "images/product/original/rvuo5gml4x/hotstyle-fashion-black-casual-shoe-for-menss-swatch-rvuo5gml4x--1-202202262009.png",
+          "category_type": {
+            "9543": "virtual",
+            "9541": "virtual",
+            "9552": "virtual",
+            "9447": "virtual",
+            "9448": "virtual",
+            "9555": "virtual",
+            "9446": "virtual",
+            "6081": "virtual",
+            "1480": "main",
+            "9450": "virtual",
+            "7391": "virtual",
+            "9550": "virtual",
+            "2071": "main",
+            "7808": "virtual",
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "3455": "virtual",
+            "623": "virtual",
+            "9449": "virtual",
+            "9548": "virtual",
+            "7768": "virtual",
+            "9549": "virtual"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["1144"],
+          "common_attributes": {},
+          "alternate_product_code": "RVUO5GML4X",
+          "available_at_3p_seller": true,
+          "seller_names": ["HOTSTYLE PRODUCTS"],
+          "algolia_facet": {},
+          "itemId": 2364231,
+          "uom_for_price_compare_factor": 1.0,
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "591132584",
+          "_highlightResult": {
+            "product_code": {
+              "value": "591132584",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "HOTSTYLE",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "HOTSTYLE Black Casual Shoe For Mens",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Black",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "HOTSTYLE PRODUCTS",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 591472884,
+          "in_stock": 1,
+          "search_keywords": "shoes for men,casuals,loafers",
+          "thumbnail_url": "images/product/330x410/rvssljjydd/aeonik-casuals-for-men-black-product-images-rvssljjydd-0-202205202126.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Aeonik",
+          "url_path": "/p/fashion/aeonik-casuals-for-men-black/591472884",
+          "level1_search_keys": "",
+          "manufacturer_id": 10751,
+          "image_url": "images/product/330x410/rvssljjydd/aeonik-casuals-for-men-black-product-images-rvssljjydd-0-202205202126.jpg",
+          "max_qty_in_order": 5,
+          "manufacturer_name": "Omri Enterprises",
+          "display_name": "Aeonik \nCasuals For Men  (Black)",
+          "brand_id": 9721,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvssljjydd/aeonik-casuals-for-men-black-product-images-rvssljjydd-0-202205202126.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [1, 3, 496, 1480, 2071],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": ["Category > Fashion > Men > Footwear > Casual Shoes"],
+            "level1": ["Category > Fashion"],
+            "level0": ["Category"],
+            "level3": ["Category > Fashion > Men > Footwear"],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 1299.0,
+          "avg_selling_price": 199.0,
+          "avg_discount_rate": 0.84,
+          "avg_discount": 1100,
+          "avg_discount_pct": 84,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 84,
+              "promo_description": "",
+              "price": 199.0,
+              "available": true,
+              "discount": 1100.0,
+              "mrp": 1299.0,
+              "max_qty_in_order": 5,
+              "tag": "",
+              "discount_rate": 0.84
+            }
+          },
+          "option_code": "RCSKZ4T6LS_Black",
+          "colour": "Black",
+          "size": "UK 10",
+          "swatch_image": "images/product/original/rvssljjydd/aeonik-casuals-for-men-black-swatch-rvssljjydd--1-202205202126.png",
+          "category_type": {
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "1480": "main",
+            "2071": "main"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["2330"],
+          "common_attributes": {},
+          "alternate_product_code": "RVSSLJJYDD",
+          "available_at_3p_seller": true,
+          "seller_names": ["Rishabh  kumar"],
+          "algolia_facet": {},
+          "itemId": 3118707,
+          "popularity": 9994.39,
+          "uom_for_price_compare_factor": 1.0,
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "591472884",
+          "_highlightResult": {
+            "product_code": {
+              "value": "591472884",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "shoes for men,casuals,loafers",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Aeonik",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Aeonik \nCasuals For Men  (Black)",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Black",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "Rishabh  kumar",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 591867733,
+          "in_stock": 1,
+          "search_keywords": "shoes,men shoes,shoes for men,sneakers for men",
+          "thumbnail_url": "images/product/330x410/rvymz2bvku/black-casual-shoes-sneakers-product-images-rvymz2bvku-0-202206030134.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Birde",
+          "url_path": "/p/fashion/black-casual-shoes-sneakers/591867733",
+          "level1_search_keys": "",
+          "manufacturer_id": 8003,
+          "image_url": "images/product/330x410/rvymz2bvku/black-casual-shoes-sneakers-product-images-rvymz2bvku-0-202206030134.jpg",
+          "max_qty_in_order": 2,
+          "manufacturer_name": "Auvio Enterprises",
+          "display_name": "Birde Men Black Casual Shoes Sneakers",
+          "brand_id": 7761,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvymz2bvku/black-casual-shoes-sneakers-product-images-rvymz2bvku-0-202206030134.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [
+            1, 3, 496, 623, 1480, 2071, 9358, 9564, 9575, 9624, 9628, 9631
+          ],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": [
+              "Category > Fashion > Men > Footwear > Casual Shoes",
+              "Category > Fashion > Best Deals > HPMC_12_Killer_Deals_22_09_04",
+              "Category > Fashion > Best Deals > top_killer_deals_top_26_09_04",
+              "Category > Fashion > Best Deals > bestsellers_of_the_season_27_09_04",
+              "Category > Fashion > Best Deals > Banner_14_Top_Brands_30_09_07",
+              "Category > Fashion > Best Deals > GDFP_Footwear_30_09_07",
+              "Category > Fashion > Best Deals > Brand_carousel_Red_Birde_Carlton_30_09_07"
+            ],
+            "level1": [
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion"
+            ],
+            "level0": [
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category"
+            ],
+            "level3": [
+              "Category > Fashion > Men > Footwear",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals"
+            ],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 499.0,
+          "avg_selling_price": 249.0,
+          "avg_discount_rate": 0.5,
+          "avg_discount": 250,
+          "avg_discount_pct": 50,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 50,
+              "promo_description": "",
+              "price": 249.0,
+              "available": true,
+              "discount": 250.0,
+              "mrp": 499.0,
+              "max_qty_in_order": 2,
+              "tag": "",
+              "discount_rate": 0.5
+            }
+          },
+          "option_code": "RCLIQCAWWR_Black",
+          "colour": "Black",
+          "size": "UK 8",
+          "swatch_image": "images/product/original/rvymz2bvku/black-casual-shoes-sneakers-swatch-rvymz2bvku--1-202206030134.png",
+          "category_type": {
+            "9564": "virtual",
+            "9575": "virtual",
+            "1": "main",
+            "496": "main",
+            "9631": "virtual",
+            "3": "main",
+            "9624": "virtual",
+            "623": "virtual",
+            "9358": "virtual",
+            "9628": "virtual",
+            "1480": "main",
+            "2071": "main"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["966"],
+          "common_attributes": {},
+          "alternate_product_code": "RVYMZ2BVKU",
+          "available_at_3p_seller": true,
+          "seller_names": ["AUVIO ENTERPRISES"],
+          "algolia_facet": {},
+          "itemId": 3498503,
+          "popularity": 9994.29,
+          "uom_for_price_compare_factor": 1.0,
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "591867733",
+          "_highlightResult": {
+            "product_code": {
+              "value": "591867733",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "shoes,men shoes,shoes for men,sneakers for men",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Birde",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Birde Men Black Casual Shoes Sneakers",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Black",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "AUVIO ENTERPRISES",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 591445333,
+          "in_stock": 1,
+          "search_keywords": "Casuals,sneakers,men",
+          "thumbnail_url": "images/product/330x410/rvx9i5se9x/jokatoo-men-s-grey-lace-up-shoes-product-images-rvx9i5se9x-0-202205190617.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Jokatoo",
+          "url_path": "/p/fashion/jokatoo-men-s-grey-lace-up-shoes/591445333",
+          "level1_search_keys": "",
+          "manufacturer_id": 10661,
+          "image_url": "images/product/330x410/rvx9i5se9x/jokatoo-men-s-grey-lace-up-shoes-product-images-rvx9i5se9x-0-202205190617.jpg",
+          "max_qty_in_order": 2,
+          "manufacturer_name": "M/S SHRI RAM INTERNATIONAL",
+          "display_name": "JOKATOO Men's Grey Lace-Up Shoes",
+          "brand_id": 9628,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvx9i5se9x/jokatoo-men-s-grey-lace-up-shoes-product-images-rvx9i5se9x-0-202205190617.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [
+            1, 3, 496, 623, 1480, 2071, 3455, 7768, 7802, 7866, 11610, 11614,
+            12034, 12038
+          ],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": [
+              "Category > Fashion > Men > Footwear > Casual Shoes",
+              "Category > Fashion > Best Deals > Men's Fashion",
+              "Category > Fashion > Best Deals > Flat 60% Off on Fashion",
+              "Category > Fashion > Best Deals > Full Paisa Vasool Men's Fashion Deals",
+              "Category > Fashion > Best Deals > mens_casual_04_10_07",
+              "Category > Fashion > Best Deals > mens_ethnic_04_10_07",
+              "Category > Fashion > Best Deals > fashion_store_hpmc_deals_day_12_10_08",
+              "Category > Top Best Deals > bestival_14_16_sale"
+            ],
+            "level1": [
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion"
+            ],
+            "level0": [
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category"
+            ],
+            "level3": [
+              "Category > Fashion > Men > Footwear",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals"
+            ],
+            "level2": ["Category > Fashion > Men", "Category > Top Best Deals"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 2999.0,
+          "avg_selling_price": 499.0,
+          "avg_discount_rate": 0.83,
+          "avg_discount": 2500,
+          "avg_discount_pct": 83,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 83,
+              "promo_description": "",
+              "price": 499.0,
+              "available": true,
+              "discount": 2500.0,
+              "mrp": 2999.0,
+              "max_qty_in_order": 2,
+              "tag": "",
+              "discount_rate": 0.83
+            }
+          },
+          "option_code": "RCP2KB4Z7L_Grey",
+          "colour": "Grey",
+          "size": "UK 7",
+          "swatch_image": "images/product/original/rvx9i5se9x/jokatoo-men-s-grey-lace-up-shoes-swatch-rvx9i5se9x--1-202205190618.png",
+          "category_type": {
+            "1480": "main",
+            "2071": "main",
+            "11614": "virtual",
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "3455": "virtual",
+            "623": "virtual",
+            "7866": "virtual",
+            "12034": "virtual",
+            "7802": "virtual",
+            "7768": "virtual",
+            "11610": "virtual",
+            "12038": "virtual"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["2254"],
+          "common_attributes": {},
+          "alternate_product_code": "RVX9I5SE9X",
+          "available_at_3p_seller": true,
+          "seller_names": ["MS SHRI RAM INTERNATIONAL"],
+          "algolia_facet": {},
+          "itemId": 3091384,
+          "popularity": 9992.96,
+          "uom_for_price_compare_factor": 1.0,
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "591445333",
+          "_highlightResult": {
+            "product_code": {
+              "value": "591445333",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "Casuals,sneakers,men",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Jokatoo",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "JOKATOO Men's Grey Lace-Up Shoes",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Grey",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "MS SHRI RAM INTERNATIONAL",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 593098775,
+          "in_stock": 1,
+          "search_keywords": "shoes,sport shoes,running shoes",
+          "thumbnail_url": "images/product/330x410/rvygf8rims/bruton-trendy-running-shoes-sneaker-shoes-for-men-blue-product-images-rvygf8rims-0-202207260826.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Bruton",
+          "url_path": "/p/fashion/bruton-trendy-running-shoes-sneaker-shoes-for-men-blue/593098775",
+          "level1_search_keys": "",
+          "manufacturer_id": 7898,
+          "image_url": "images/product/330x410/rvygf8rims/bruton-trendy-running-shoes-sneaker-shoes-for-men-blue-product-images-rvygf8rims-0-202207260826.jpg",
+          "max_qty_in_order": 3,
+          "manufacturer_name": "STS Enterprises",
+          "display_name": "BRUTON Trendy Running Shoes Sneaker Shoes For Men  (Blue)",
+          "brand_id": 7674,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvygf8rims/bruton-trendy-running-shoes-sneaker-shoes-for-men-blue-product-images-rvygf8rims-0-202207260826.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [1, 3, 496, 623, 1480, 2071, 7802],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": [
+              "Category > Fashion > Men > Footwear > Casual Shoes",
+              "Category > Fashion > Best Deals > Flat 60% Off on Fashion"
+            ],
+            "level1": ["Category > Fashion", "Category > Fashion"],
+            "level0": ["Category", "Category"],
+            "level3": [
+              "Category > Fashion > Men > Footwear",
+              "Category > Fashion > Best Deals"
+            ],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 1299.0,
+          "avg_selling_price": 349.0,
+          "avg_discount_rate": 0.73,
+          "avg_discount": 950,
+          "avg_discount_pct": 73,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 73,
+              "promo_description": "",
+              "price": 349.0,
+              "available": true,
+              "discount": 950.0,
+              "mrp": 1299.0,
+              "max_qty_in_order": 3,
+              "tag": "",
+              "discount_rate": 0.73
+            }
+          },
+          "option_code": "RC4U4VLEUD_Blue",
+          "colour": "Blue",
+          "size": "UK 9",
+          "swatch_image": "images/product/original/rvygf8rims/bruton-trendy-running-shoes-sneaker-shoes-for-men-blue-swatch-rvygf8rims--1-202207260827.png",
+          "category_type": {
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "623": "virtual",
+            "7802": "virtual",
+            "1480": "main",
+            "2071": "main"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["894"],
+          "common_attributes": {},
+          "alternate_product_code": "RVYGF8RIMS",
+          "available_at_3p_seller": true,
+          "seller_names": ["STS Enterprises"],
+          "uom_for_price_compare_factor": 1.0,
+          "algolia_facet": {},
+          "itemId": 4675258,
+          "popularity": 9992.94,
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "593098775",
+          "_highlightResult": {
+            "product_code": {
+              "value": "593098775",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "shoes,sport shoes,running shoes",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Bruton",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "BRUTON Trendy Running Shoes Sneaker Shoes For Men  (Blue)",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Blue",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "STS Enterprises",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 591346351,
+          "in_stock": 1,
+          "thumbnail_url": "images/product/330x410/rvynfcbji8/scatchite-comfortable-casual-shoes-for-men-s-product-images-rvynfcbji8-0-202205160448.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "SCATCHITE",
+          "url_path": "/p/fashion/scatchite-comfortable-casual-shoes-for-men-s/591346351",
+          "level1_search_keys": "",
+          "manufacturer_id": 7508,
+          "image_url": "images/product/330x410/rvynfcbji8/scatchite-comfortable-casual-shoes-for-men-s-product-images-rvynfcbji8-0-202205160448.jpg",
+          "max_qty_in_order": 20,
+          "manufacturer_name": "Jagdamba Textile.",
+          "display_name": "SCATCHITE Comfortable Casual Shoes For Men's",
+          "brand_id": 7354,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvynfcbji8/scatchite-comfortable-casual-shoes-for-men-s-product-images-rvynfcbji8-0-202205160448.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [1, 3, 496, 623, 1480, 2071, 7768, 7802, 7866],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": [
+              "Category > Fashion > Men > Footwear > Casual Shoes",
+              "Category > Fashion > Best Deals > Men's Fashion",
+              "Category > Fashion > Best Deals > Flat 60% Off on Fashion",
+              "Category > Fashion > Best Deals > Full Paisa Vasool Men's Fashion Deals"
+            ],
+            "level1": [
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion"
+            ],
+            "level0": ["Category", "Category", "Category", "Category"],
+            "level3": [
+              "Category > Fashion > Men > Footwear",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals"
+            ],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 999.0,
+          "avg_selling_price": 302.0,
+          "avg_discount_rate": 0.69,
+          "avg_discount": 697,
+          "avg_discount_pct": 69,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 69,
+              "promo_description": "",
+              "price": 302.0,
+              "available": true,
+              "discount": 697.0,
+              "mrp": 999.0,
+              "max_qty_in_order": 20,
+              "tag": "",
+              "discount_rate": 0.69
+            }
+          },
+          "option_code": "RCZHWTIH2V_Grey",
+          "colour": "Grey",
+          "size": "UK 7",
+          "swatch_image": "images/product/original/rvynfcbji8/scatchite-comfortable-casual-shoes-for-men-s-swatch-rvynfcbji8--1-202205160448.png",
+          "category_type": {
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "623": "virtual",
+            "7866": "virtual",
+            "7802": "virtual",
+            "7768": "virtual",
+            "1480": "main",
+            "2071": "main"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["829"],
+          "common_attributes": {},
+          "alternate_product_code": "RVYNFCBJI8",
+          "available_at_3p_seller": true,
+          "seller_names": ["JAGDAMBA TEXTILE"],
+          "algolia_facet": {},
+          "itemId": 2993110,
+          "popularity": 9991.99,
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "uom_for_price_compare_factor": 0.0,
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "591346351",
+          "_highlightResult": {
+            "product_code": {
+              "value": "591346351",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "SCATCHITE",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "SCATCHITE Comfortable Casual Shoes For Men's",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Grey",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "JAGDAMBA TEXTILE",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 593883164,
+          "in_stock": 1,
+          "search_keywords": "Women,Footwear,Bellies,Casual,Shoes,running,walking",
+          "thumbnail_url": "images/product/330x410/rvujxkxn6b/fabbmate-stylish-comfortable-blue-casual-shoes-for-men-product-images-rvujxkxn6b-0-202209201332.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Fabbmate",
+          "url_path": "/p/fashion/fabbmate-stylish-comfortable-blue-casual-shoes-for-men/593883164",
+          "level1_search_keys": "",
+          "manufacturer_id": 10204,
+          "image_url": "images/product/330x410/rvujxkxn6b/fabbmate-stylish-comfortable-blue-casual-shoes-for-men-product-images-rvujxkxn6b-0-202209201332.jpg",
+          "max_qty_in_order": 10,
+          "manufacturer_name": "Fabbmate",
+          "display_name": "Fabbmate Stylish & Comfortable Blue Casual Shoes For Men",
+          "brand_id": 9237,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvujxkxn6b/fabbmate-stylish-comfortable-blue-casual-shoes-for-men-product-images-rvujxkxn6b-0-202209201332.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [
+            1, 3, 496, 623, 1480, 2071, 3455, 7145, 7291, 9790, 11634, 11893,
+            11895, 11907, 11912, 11915, 12046, 12056
+          ],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": [
+              "Category > Fashion > Men > Footwear > Casual Shoes",
+              "Category > Fashion > Best Deals > fashion_weekend",
+              "Category > Fashion > Best Deals > Dotd_Fashion",
+              "Category > Fashion > Best Deals > hpmc_fashion_30_09_22",
+              "Category > Top Best Deals > best of footwear_04_10",
+              "Category > Fashion > Best Deals > hpmc10_lightening_deal_14_15",
+              "Category > Fashion > Best Deals > hpmc_lightening_deal_14_15",
+              "Category > Fashion > Best Deals > trending_fashion_sports_shoes_14_15",
+              "Category > Fashion > Best Deals > brand_carousel_red_carlton_asian_14_15",
+              "Category > Fashion > Best Deals > hpmc8_lightening_deal_14_15",
+              "Category > Fashion > Best Deals > generic_carousel_sportscasualshoes_11_10_2022",
+              "Category > Fashion > Best Deals > men_carousel_casualshoesneakers_11_10_2022"
+            ],
+            "level1": [
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion"
+            ],
+            "level0": [
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category"
+            ],
+            "level3": [
+              "Category > Fashion > Men > Footwear",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals"
+            ],
+            "level2": ["Category > Fashion > Men", "Category > Top Best Deals"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 599.0,
+          "avg_selling_price": 299.0,
+          "avg_discount_rate": 0.5,
+          "avg_discount": 300,
+          "avg_discount_pct": 50,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 50,
+              "promo_description": "",
+              "price": 299.0,
+              "available": true,
+              "discount": 300.0,
+              "mrp": 599.0,
+              "max_qty_in_order": 10,
+              "tag": "",
+              "discount_rate": 0.5
+            }
+          },
+          "option_code": "RCWYLZYUPZ_Blue",
+          "colour": "Blue",
+          "size": "UK 6",
+          "swatch_image": "images/product/original/rvujxkxn6b/fabbmate-stylish-comfortable-blue-casual-shoes-for-men-swatch-rvujxkxn6b--1-202209201333.png",
+          "category_type": {
+            "7145": "virtual",
+            "11907": "virtual",
+            "7291": "virtual",
+            "1480": "main",
+            "2071": "main",
+            "9790": "virtual",
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "11912": "virtual",
+            "11915": "virtual",
+            "3455": "virtual",
+            "623": "virtual",
+            "12046": "virtual",
+            "12056": "virtual",
+            "11893": "virtual",
+            "11895": "virtual",
+            "11634": "virtual"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["1987"],
+          "common_attributes": {},
+          "alternate_product_code": "RVUJXKXN6B",
+          "available_at_3p_seller": true,
+          "seller_names": ["FABBMATE"],
+          "uom_for_price_compare_factor": 1.0,
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "algolia_facet": {},
+          "itemId": 5363147,
+          "popularity": 9991.96,
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "593883164",
+          "_highlightResult": {
+            "product_code": {
+              "value": "593883164",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "Women,Footwear,Bellies,Casual,Shoes,running,walking",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Fabbmate",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Fabbmate Stylish & Comfortable Blue Casual Shoes For Men",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Blue",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "FABBMATE",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 592188045,
+          "in_stock": 1,
+          "search_keywords": "loafers shoes men leather,loafers shoes men stylish,casual shoes for men style brand",
+          "thumbnail_url": "images/product/330x410/rvl7seicno/aaravin-s-affordable-stylish-loafers-for-men-brown-product-images-rvl7seicno-0-202206240828.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Aaravin's",
+          "url_path": "/p/fashion/aaravin-s-affordable-stylish-loafers-for-men-brown/592188045",
+          "level1_search_keys": "",
+          "manufacturer_id": 10887,
+          "image_url": "images/product/330x410/rvl7seicno/aaravin-s-affordable-stylish-loafers-for-men-brown-product-images-rvl7seicno-0-202206240828.jpg",
+          "max_qty_in_order": 2,
+          "manufacturer_name": "R V R FOOTWEAR",
+          "display_name": "Aaravin's Affordable Stylish Loafers for men (Brown)",
+          "brand_id": 9860,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvl7seicno/aaravin-s-affordable-stylish-loafers-for-men-brown-product-images-rvl7seicno-0-202206240828.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [1, 3, 496, 1480, 2071],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": ["Category > Fashion > Men > Footwear > Casual Shoes"],
+            "level1": ["Category > Fashion"],
+            "level0": ["Category"],
+            "level3": ["Category > Fashion > Men > Footwear"],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 999.0,
+          "avg_selling_price": 399.0,
+          "avg_discount_rate": 0.6,
+          "avg_discount": 600,
+          "avg_discount_pct": 60,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 60,
+              "promo_description": "",
+              "price": 399.0,
+              "available": true,
+              "discount": 600.0,
+              "mrp": 999.0,
+              "max_qty_in_order": 2,
+              "tag": "",
+              "discount_rate": 0.6
+            }
+          },
+          "option_code": "RCA8UV8SMA_Brown",
+          "colour": "Brown",
+          "size": "UK 10",
+          "swatch_image": "images/product/original/rvl7seicno/aaravin-s-affordable-stylish-loafers-for-men-brown-swatch-rvl7seicno--1-202206240829.png",
+          "category_type": {
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "1480": "main",
+            "2071": "main"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["2444"],
+          "common_attributes": {},
+          "alternate_product_code": "RVL7SEICNO",
+          "available_at_3p_seller": true,
+          "seller_names": ["R V R FOOTWEAR"],
+          "uom_for_price_compare_factor": 1.0,
+          "algolia_facet": {},
+          "popularity": 9991.09,
+          "itemId": 3822992,
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "592188045",
+          "_highlightResult": {
+            "product_code": {
+              "value": "592188045",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "loafers shoes men leather,loafers shoes men stylish,casual shoes for men style brand",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Aaravin's",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Aaravin's Affordable Stylish Loafers for men (Brown)",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Brown",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "R V R FOOTWEAR",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 591756398,
+          "in_stock": 1,
+          "search_keywords": "shoes,men shoes,shoes for men,sneakers for men",
+          "thumbnail_url": "images/product/330x410/rvxchahh5g/bride-men-blue-casual-shoes-product-images-rvxchahh5g-0-202205310913.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Birde",
+          "url_path": "/p/fashion/bride-men-blue-casual-shoes/591756398",
+          "level1_search_keys": "",
+          "manufacturer_id": 8003,
+          "image_url": "images/product/330x410/rvxchahh5g/bride-men-blue-casual-shoes-product-images-rvxchahh5g-0-202205310913.jpg",
+          "max_qty_in_order": 2,
+          "manufacturer_name": "Auvio Enterprises",
+          "display_name": "Birde Men's Blue Casual Shoes",
+          "brand_id": 7761,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvxchahh5g/bride-men-blue-casual-shoes-product-images-rvxchahh5g-0-202205310913.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [1, 3, 496, 1480, 2071],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": ["Category > Fashion > Men > Footwear > Casual Shoes"],
+            "level1": ["Category > Fashion"],
+            "level0": ["Category"],
+            "level3": ["Category > Fashion > Men > Footwear"],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 999.0,
+          "avg_selling_price": 329.0,
+          "avg_discount_rate": 0.67,
+          "avg_discount": 670,
+          "avg_discount_pct": 67,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 67,
+              "promo_description": "",
+              "price": 329.0,
+              "available": true,
+              "discount": 670.0,
+              "mrp": 999.0,
+              "max_qty_in_order": 2,
+              "tag": "",
+              "discount_rate": 0.67
+            }
+          },
+          "option_code": "RC94SKUPDE_Blue",
+          "colour": "Blue",
+          "size": "UK 10",
+          "swatch_image": "images/product/original/rvxchahh5g/bride-men-blue-casual-shoes-swatch-rvxchahh5g--1-202205310913.png",
+          "category_type": {
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "1480": "main",
+            "2071": "main"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["966"],
+          "common_attributes": {},
+          "alternate_product_code": "RVXCHAHH5G",
+          "available_at_3p_seller": true,
+          "seller_names": ["AUVIO ENTERPRISES"],
+          "algolia_facet": {},
+          "itemId": 3391679,
+          "popularity": 9990.88,
+          "uom_for_price_compare_factor": 1.0,
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "591756398",
+          "_highlightResult": {
+            "product_code": {
+              "value": "591756398",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "shoes,men shoes,shoes for men,sneakers for men",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Birde",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Birde Men's Blue Casual Shoes",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Blue",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "AUVIO ENTERPRISES",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 591295802,
+          "in_stock": 1,
+          "search_keywords": "casual shoes,men",
+          "thumbnail_url": "images/product/330x410/rvur5pgdqf/aadi-black-loafers-men-product-images-rvur5pgdqf-0-202205132118.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Aadi",
+          "url_path": "/p/fashion/aadi-black-loafers-men/591295802",
+          "level1_search_keys": "",
+          "manufacturer_id": 8333,
+          "image_url": "images/product/330x410/rvur5pgdqf/aadi-black-loafers-men-product-images-rvur5pgdqf-0-202205132118.jpg",
+          "max_qty_in_order": 2,
+          "manufacturer_name": "Dadwanis Footwear Pvt Ltd",
+          "display_name": "Aadi Black Loafers Men",
+          "brand_id": 8106,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvur5pgdqf/aadi-black-loafers-men-product-images-rvur5pgdqf-0-202205132118.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [
+            1, 3, 496, 623, 1480, 2071, 3455, 6875, 7768, 8782, 8881, 9358,
+            9425, 9564
+          ],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": [
+              "Category > Fashion > Men > Footwear > Casual Shoes",
+              "Category > Top Best Deals > Top deals EOSS_21",
+              "Category > Fashion > Best Deals > Men's Fashion",
+              "Category > Top Best Deals > Bestsellers of the Season_19_09_0",
+              "Category > Top Best Deals > Killer Deals_09_20_01",
+              "Category > Fashion > Best Deals > HPMC_12_Killer_Deals_22_09_04",
+              "Category > Fashion > Best Deals > Banner_Hot_Picks_of_the_season_22_09_07",
+              "Category > Fashion > Best Deals > top_killer_deals_top_26_09_04"
+            ],
+            "level1": [
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion",
+              "Category > Fashion"
+            ],
+            "level0": [
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category",
+              "Category"
+            ],
+            "level3": [
+              "Category > Fashion > Men > Footwear",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals",
+              "Category > Fashion > Best Deals"
+            ],
+            "level2": [
+              "Category > Fashion > Men",
+              "Category > Top Best Deals",
+              "Category > Top Best Deals",
+              "Category > Top Best Deals"
+            ]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 1999.0,
+          "avg_selling_price": 330.0,
+          "avg_discount_rate": 0.83,
+          "avg_discount": 1669,
+          "avg_discount_pct": 83,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 83,
+              "promo_description": "",
+              "price": 330.0,
+              "available": true,
+              "discount": 1669.0,
+              "mrp": 1999.0,
+              "max_qty_in_order": 2,
+              "tag": "",
+              "discount_rate": 0.83
+            }
+          },
+          "option_code": "RCSSRFQ2PJ_Black",
+          "colour": "Black",
+          "size": "UK 10",
+          "swatch_image": "images/product/original/rvur5pgdqf/aadi-black-loafers-men-swatch-rvur5pgdqf--1-202205132119.png",
+          "category_type": {
+            "9564": "virtual",
+            "8782": "virtual",
+            "8881": "virtual",
+            "9425": "virtual",
+            "9358": "virtual",
+            "1480": "main",
+            "2071": "main",
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "3455": "virtual",
+            "623": "virtual",
+            "6875": "virtual",
+            "7768": "virtual"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["1231"],
+          "common_attributes": {},
+          "alternate_product_code": "RVUR5PGDQF",
+          "available_at_3p_seller": true,
+          "seller_names": ["DADWANI'S FOOTWEAR PRIVATE LIMITED"],
+          "algolia_facet": {},
+          "itemId": 2947914,
+          "popularity": 9989.71,
+          "uom_for_price_compare_factor": 1.0,
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "591295802",
+          "_highlightResult": {
+            "product_code": {
+              "value": "591295802",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "casual shoes,men",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Aadi",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Aadi Black Loafers Men",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Black",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 594079598,
+          "in_stock": 1,
+          "search_keywords": "ShoseForMen,Shose,StyleshShosForMen",
+          "thumbnail_url": "images/product/330x410/rvroiovpx8/fashion-black-uk-9-product-images-rvroiovpx8-0-202209260016.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Fosty",
+          "url_path": "/p/fashion/fashion-black-uk-9/594079598",
+          "level1_search_keys": "",
+          "manufacturer_id": 13046,
+          "image_url": "images/product/330x410/rvroiovpx8/fashion-black-uk-9-product-images-rvroiovpx8-0-202209260016.jpg",
+          "max_qty_in_order": 3,
+          "manufacturer_name": "TANIYA TRADING CO",
+          "display_name": "FASHION  BLACK UK 9",
+          "brand_id": 14529,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvroiovpx8/fashion-black-uk-9-product-images-rvroiovpx8-0-202209260016.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [1, 3, 496, 1480, 2071],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": ["Category > Fashion > Men > Footwear > Casual Shoes"],
+            "level1": ["Category > Fashion"],
+            "level0": ["Category"],
+            "level3": ["Category > Fashion > Men > Footwear"],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 999.0,
+          "avg_selling_price": 239.0,
+          "avg_discount_rate": 0.76,
+          "avg_discount": 760,
+          "avg_discount_pct": 76,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 76,
+              "promo_description": "",
+              "price": 239.0,
+              "available": true,
+              "discount": 760.0,
+              "mrp": 999.0,
+              "max_qty_in_order": 3,
+              "tag": "",
+              "discount_rate": 0.76
+            }
+          },
+          "option_code": "RCPHWPJCRJ_Black",
+          "colour": "Black",
+          "size": "UK 9",
+          "swatch_image": "images/product/original/rvroiovpx8/fashion-black-uk-9-swatch-rvroiovpx8--1-202209260016.png",
+          "category_type": {
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "1480": "main",
+            "2071": "main"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["4113"],
+          "common_attributes": {},
+          "alternate_product_code": "RVROIOVPX8",
+          "available_at_3p_seller": true,
+          "seller_names": ["TANIYA TRADING CO"],
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "uom_for_price_compare_factor": 1.0,
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "algolia_facet": {},
+          "itemId": 5543432,
+          "popularity": 9989.55,
+          "vertical_code": "FASHION",
+          "objectID": "594079598",
+          "_highlightResult": {
+            "product_code": {
+              "value": "594079598",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "ShoseForMen,Shose,StyleshShosForMen",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Fosty",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "FASHION  BLACK UK 9",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Black",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "TANIYA TRADING CO",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 592062797,
+          "in_stock": 1,
+          "search_keywords": "shoes,men shoes,shoes for men,sneakers for men",
+          "thumbnail_url": "images/product/330x410/rvyrbuqzg1/birde-men-s-blue-casual-shoes-product-images-rvyrbuqzg1-0-202206132012.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Birde",
+          "url_path": "/p/fashion/birde-men-s-blue-casual-shoes/592062797",
+          "level1_search_keys": "",
+          "manufacturer_id": 8003,
+          "image_url": "images/product/330x410/rvyrbuqzg1/birde-men-s-blue-casual-shoes-product-images-rvyrbuqzg1-0-202206132012.jpg",
+          "max_qty_in_order": 2,
+          "manufacturer_name": "Auvio Enterprises",
+          "display_name": "Birde Men's Blue Casual Shoes",
+          "brand_id": 7761,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvyrbuqzg1/birde-men-s-blue-casual-shoes-product-images-rvyrbuqzg1-0-202206132012.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [1, 3, 496, 1480, 2071],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": ["Category > Fashion > Men > Footwear > Casual Shoes"],
+            "level1": ["Category > Fashion"],
+            "level0": ["Category"],
+            "level3": ["Category > Fashion > Men > Footwear"],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 999.0,
+          "avg_selling_price": 299.0,
+          "avg_discount_rate": 0.7,
+          "avg_discount": 700,
+          "avg_discount_pct": 70,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 70,
+              "promo_description": "",
+              "price": 299.0,
+              "available": true,
+              "discount": 700.0,
+              "mrp": 999.0,
+              "max_qty_in_order": 2,
+              "tag": "",
+              "discount_rate": 0.7
+            }
+          },
+          "option_code": "RC1DTC5EJ8_Blue",
+          "colour": "Blue",
+          "size": "UK 10",
+          "swatch_image": "images/product/original/rvyrbuqzg1/birde-men-s-blue-casual-shoes-swatch-rvyrbuqzg1--1-202206132013.png",
+          "category_type": {
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "1480": "main",
+            "2071": "main"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["966"],
+          "common_attributes": {},
+          "alternate_product_code": "RVYRBUQZG1",
+          "available_at_3p_seller": true,
+          "seller_names": ["AUVIO ENTERPRISES"],
+          "uom_for_price_compare_factor": 1.0,
+          "algolia_facet": {},
+          "itemId": 3699182,
+          "popularity": 9988.29,
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "592062797",
+          "_highlightResult": {
+            "product_code": {
+              "value": "592062797",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "shoes,men shoes,shoes for men,sneakers for men",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Birde",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Birde Men's Blue Casual Shoes",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Blue",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "AUVIO ENTERPRISES",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 594245063,
+          "in_stock": 1,
+          "thumbnail_url": "images/product/330x410/rvbmtgm6fu/dunkaston-black-casual-shoes-for-men-product-images-rvbmtgm6fu-0-202210032312.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Dunkaston",
+          "url_path": "/p/fashion/dunkaston-black-casual-shoes-for-men/594245063",
+          "level1_search_keys": "",
+          "manufacturer_id": 16130,
+          "image_url": "images/product/330x410/rvbmtgm6fu/dunkaston-black-casual-shoes-for-men-product-images-rvbmtgm6fu-0-202210032312.jpg",
+          "max_qty_in_order": 5,
+          "manufacturer_name": "THE MOBILIO INCORPORATION",
+          "display_name": "Dunkaston Black Casual Shoes for Men",
+          "brand_id": 14682,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvbmtgm6fu/dunkaston-black-casual-shoes-for-men-product-images-rvbmtgm6fu-0-202210032312.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [1, 3, 496, 1480, 2071],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": ["Category > Fashion > Men > Footwear > Casual Shoes"],
+            "level1": ["Category > Fashion"],
+            "level0": ["Category"],
+            "level3": ["Category > Fashion > Men > Footwear"],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 1499.0,
+          "avg_selling_price": 399.0,
+          "avg_discount_rate": 0.73,
+          "avg_discount": 1100,
+          "avg_discount_pct": 73,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 73,
+              "promo_description": "",
+              "price": 399.0,
+              "available": true,
+              "discount": 1100.0,
+              "mrp": 1499.0,
+              "max_qty_in_order": 5,
+              "tag": "",
+              "discount_rate": 0.73
+            }
+          },
+          "option_code": "RC8ZS4K3EM_Black",
+          "colour": "Black",
+          "size": "UK 10",
+          "swatch_image": "images/product/original/rvbmtgm6fu/dunkaston-black-casual-shoes-for-men-swatch-rvbmtgm6fu--1-202210032312.png",
+          "category_type": {
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "1480": "main",
+            "2071": "main"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["6671"],
+          "common_attributes": {},
+          "alternate_product_code": "RVBMTGM6FU",
+          "available_at_3p_seller": true,
+          "seller_names": ["THE MOBILIO INCORPORATION"],
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "uom_for_price_compare_factor": 1.0,
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "algolia_facet": {},
+          "itemId": 5697834,
+          "popularity": 9987.42,
+          "vertical_code": "FASHION",
+          "objectID": "594245063",
+          "_highlightResult": {
+            "product_code": {
+              "value": "594245063",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Dunkaston",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Dunkaston Black Casual Shoes for Men",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Black",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "THE MOBILIO INCORPORATION",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 593621008,
+          "in_stock": 1,
+          "search_keywords": "Casual Shoes,Blue Sneaker,Blue Casual Shoes,Men Shoes Blue",
+          "thumbnail_url": "images/product/330x410/rvzkt1riux/smoky-blue-trendy-casual-shoes-sneaker-for-men-product-images-rvzkt1riux-0-202209052215.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Smoky",
+          "url_path": "/p/fashion/smoky-blue-trendy-casual-shoes-sneaker-for-men/593621008",
+          "level1_search_keys": "",
+          "manufacturer_id": 15322,
+          "image_url": "images/product/330x410/rvzkt1riux/smoky-blue-trendy-casual-shoes-sneaker-for-men-product-images-rvzkt1riux-0-202209052215.jpg",
+          "max_qty_in_order": 2,
+          "manufacturer_name": "Smoky Enterprises",
+          "display_name": "Smoky Blue Trendy Casual shoes, Sneaker For Men",
+          "brand_id": 13920,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rvzkt1riux/smoky-blue-trendy-casual-shoes-sneaker-for-men-product-images-rvzkt1riux-0-202209052215.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [1, 3, 496, 1480, 2071],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": ["Category > Fashion > Men > Footwear > Casual Shoes"],
+            "level1": ["Category > Fashion"],
+            "level0": ["Category"],
+            "level3": ["Category > Fashion > Men > Footwear"],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 1199.0,
+          "avg_selling_price": 249.0,
+          "avg_discount_rate": 0.79,
+          "avg_discount": 950,
+          "avg_discount_pct": 79,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 79,
+              "promo_description": "",
+              "price": 249.0,
+              "available": true,
+              "discount": 950.0,
+              "mrp": 1199.0,
+              "max_qty_in_order": 2,
+              "tag": "",
+              "discount_rate": 0.79
+            }
+          },
+          "option_code": "RCUKBAI2BO_Blue",
+          "colour": "Blue",
+          "size": "UK 9",
+          "swatch_image": "images/product/original/rvzkt1riux/smoky-blue-trendy-casual-shoes-sneaker-for-men-swatch-rvzkt1riux--1-202209052215.png",
+          "category_type": {
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "1480": "main",
+            "2071": "main"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["5965"],
+          "common_attributes": {},
+          "alternate_product_code": "RVZKT1RIUX",
+          "available_at_3p_seller": true,
+          "seller_names": ["Smoky Enterprises"],
+          "uom_for_price_compare_factor": 1.0,
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "algolia_facet": {},
+          "itemId": 5145107,
+          "popularity": 9987.13,
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "593621008",
+          "_highlightResult": {
+            "product_code": {
+              "value": "593621008",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "Casual Shoes,Blue Sneaker,Blue Casual Shoes,Men Shoes Blue",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Smoky",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Smoky Blue Trendy Casual shoes, Sneaker For Men",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Blue",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "Smoky Enterprises",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "product_code": 592188031,
+          "in_stock": 1,
+          "search_keywords": "loafers shoes men leather,loafers shoes men stylish,casual shoes for men style brand",
+          "thumbnail_url": "images/product/330x410/rveikwf1kf/aaravin-s-affordable-stylish-loafers-for-men-black-product-images-rveikwf1kf-0-202206240827.jpg",
+          "level2_search_keys": "",
+          "level3_search_keys": "",
+          "sold_qty_for_rank": 0,
+          "brand": "Aaravin's",
+          "url_path": "/p/fashion/aaravin-s-affordable-stylish-loafers-for-men-black/592188031",
+          "level1_search_keys": "",
+          "manufacturer_id": 10887,
+          "image_url": "images/product/330x410/rveikwf1kf/aaravin-s-affordable-stylish-loafers-for-men-black-product-images-rveikwf1kf-0-202206240827.jpg",
+          "max_qty_in_order": 2,
+          "manufacturer_name": "R V R FOOTWEAR",
+          "display_name": "Aaravin's Affordable Stylish Loafers for men (Black)",
+          "brand_id": 9860,
+          "availability_status": "A",
+          "product_type": "",
+          "is_sodexo_eligible": false,
+          "image_path": "rveikwf1kf/aaravin-s-affordable-stylish-loafers-for-men-black-product-images-rveikwf1kf-0-202206240827.jpg",
+          "formulation_type": "Fashion",
+          "category_ids": [1, 3, 496, 1480, 2071],
+          "categories": [
+            "Category",
+            "Fashion",
+            "Men",
+            "Footwear",
+            "Casual Shoes"
+          ],
+          "category_tree": {
+            "level4": ["Category > Fashion > Men > Footwear > Casual Shoes"],
+            "level1": ["Category > Fashion"],
+            "level0": ["Category"],
+            "level3": ["Category > Fashion > Men > Footwear"],
+            "level2": ["Category > Fashion > Men"]
+          },
+          "category_level": {
+            "level4": ["Casual Shoes"],
+            "level1": ["Fashion"],
+            "level0": ["Category"],
+            "level3": ["Footwear"],
+            "level2": ["Men"]
+          },
+          "avg_mrp": 999.0,
+          "avg_selling_price": 399.0,
+          "avg_discount_rate": 0.6,
+          "avg_discount": 600,
+          "avg_discount_pct": 60,
+          "store_wise_mrp": {
+            "PANINDIAFASHION": {
+              "weight_range": "",
+              "is_deal_price": false,
+              "discount_pt": 60,
+              "promo_description": "",
+              "price": 399.0,
+              "available": true,
+              "discount": 600.0,
+              "mrp": 999.0,
+              "max_qty_in_order": 2,
+              "tag": "",
+              "discount_rate": 0.6
+            }
+          },
+          "option_code": "RCA8UV8SMA_Black",
+          "colour": "Black",
+          "size": "UK 10",
+          "swatch_image": "images/product/original/rveikwf1kf/aaravin-s-affordable-stylish-loafers-for-men-black-swatch-rveikwf1kf--1-202206240827.png",
+          "category_type": {
+            "1": "main",
+            "496": "main",
+            "3": "main",
+            "1480": "main",
+            "2071": "main"
+          },
+          "available_stores": ["PANINDIAFASHION"],
+          "seasonyear": "",
+          "inventory_stores": ["fashion_zone"],
+          "seller_ids": ["2444"],
+          "common_attributes": {},
+          "alternate_product_code": "RVEIKWF1KF",
+          "available_at_3p_seller": true,
+          "seller_names": ["R V R FOOTWEAR"],
+          "uom_for_price_compare_factor": 1.0,
+          "algolia_facet": {},
+          "popularity": 9986.25,
+          "itemId": 3822976,
+          "uom_for_price_compare_value": 0.0,
+          "uom_for_price_compare_unit": "",
+          "category_level_id": {
+            "level4": [2071],
+            "level1": [3],
+            "level0": [1],
+            "level3": [1480],
+            "level2": [496]
+          },
+          "pre_order_enabled": false,
+          "pre_order": {},
+          "visible_in_whatsapp": true,
+          "doorstep_finance_enabled": false,
+          "mart_availability": "JIO_WA",
+          "vertical_code": "FASHION",
+          "objectID": "592188031",
+          "_highlightResult": {
+            "product_code": {
+              "value": "592188031",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "search_keywords": {
+              "value": "loafers shoes men leather,loafers shoes men stylish,casual shoes for men style brand",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level2_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level3_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "brand": {
+              "value": "Aaravin's",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "level1_search_keys": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "display_name": {
+              "value": "Aaravin's Affordable Stylish Loafers for men (Black)",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "category_level": {
+              "level4": [
+                {
+                  "value": "Casual Shoes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level1": [
+                {
+                  "value": "Fashion",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level3": [
+                {
+                  "value": "Footwear",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ],
+              "level2": [
+                {
+                  "value": "Men",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              ]
+            },
+            "colour": {
+              "value": "Black",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "seller_names": [
+              {
+                "value": "R V R FOOTWEAR",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        }
+      ],
+      "nbHits": 6939,
+      "nbSortedHits": 1001,
+      "page": 0,
+      "nbPages": 51,
+      "hitsPerPage": 20,
+      "facets": {
+        "size": {
+          "UK 7": 6167,
+          "UK 9": 6114,
+          "UK 8": 6112,
+          "UK 6": 6080,
+          "UK 10": 6049,
+          "UK 5": 608,
+          "UK 11": 486,
+          "UK 12": 191,
+          "UK 4": 75,
+          "UK 13": 39,
+          "UK 3": 30,
+          "UK 2": 19,
+          "UK 14": 5
+        },
+        "brand": {
+          "Bersache": 5419,
+          "fasczo": 2003,
+          "INLAZER": 1943,
+          "Bxxy": 1786,
+          "Foot Stair": 850,
+          "AXTER": 734,
+          "Fentacia": 587,
+          "Prolific": 583,
+          "Ray J": 530,
+          "WORLD WEAR FOOTWEAR": 494,
+          "Vellinto": 490,
+          "John Karsun": 486,
+          "KNOOS": 479,
+          "HOTSTYLE": 469,
+          "Punch": 460,
+          "OWN PASKO": 453,
+          "HIREL'S": 379,
+          "Vardhra": 366,
+          "Kzaara": 355,
+          "KROXX": 346,
+          "LEEPEETER": 335,
+          "Big Boon": 318,
+          "ELITEFEET": 270,
+          "Big Fox": 245,
+          "PU-Connect": 240,
+          "Afrojack": 238,
+          "Aaravin's": 235,
+          "SHOES KINGDOM": 232,
+          "SH07": 230,
+          "Elixir Man": 220,
+          "Numenzo": 217,
+          "Cross Wings": 215,
+          "JOOTIYAPA": 215,
+          "Jokatoo": 215,
+          "Robbie Jones": 209,
+          "Forest": 195,
+          "Birde": 170,
+          "Fosty": 170,
+          "SWIGGY": 170,
+          "ADDOP INTERNATIONAL": 167,
+          "Refoam": 160,
+          "Afreet": 159,
+          "Sir Corbett": 151,
+          "Delize": 150,
+          "KIMBAA": 150,
+          "Oricum": 148,
+          "LANCER FOOTWEAR": 147,
+          "GRIPWELL": 146,
+          "NEORON SHOES": 140,
+          "Origins": 140
+        },
+        "colour": {
+          "Black": 7146,
+          "Multicolor": 5920,
+          "Brown": 4321,
+          "Blue": 2962,
+          "Tan": 2773,
+          "Grey": 1999,
+          "White": 1698,
+          "Red": 1062,
+          "Rust": 694,
+          "Navy": 507,
+          "Green": 503,
+          "Orange": 488,
+          "Yellow": 357,
+          "Beige": 323,
+          "Maroon": 230,
+          "Coffee Brown": 155,
+          "Olive": 135,
+          "Light Blue": 84,
+          "Pink": 78,
+          "Gold": 69,
+          "Dark Brown": 63,
+          "Dark Blue": 59,
+          "Lime": 57,
+          "Royal Blue": 56,
+          "Off White": 31,
+          "sea green": 26,
+          "Cream": 21,
+          "Light Grey": 16,
+          "Peach": 15,
+          "Dark Red": 14,
+          "Charcoal": 11,
+          "Light Brown": 10,
+          "Light Green": 10,
+          "Wine": 10,
+          "Wood": 10,
+          "Dark Green": 9,
+          "Coral": 8,
+          "Khaki": 7,
+          "Turquoise": 6,
+          "Bordo": 5,
+          "Bronze": 5,
+          "Burgundy": 5,
+          "Purple": 5,
+          "Teak": 5,
+          "Khakhi": 4,
+          "Copper": 3
+        },
+        "in_stock": {
+          "1": 31975
+        },
+        "avg_discount_pct": {
+          "0": 3191,
+          "40": 2374,
+          "50": 2027,
+          "52": 1742,
+          "51": 1667,
+          "60": 1576,
+          "55": 1374,
+          "62": 1134,
+          "30": 984,
+          "53": 877,
+          "49": 822,
+          "43": 807,
+          "66": 712,
+          "45": 640,
+          "65": 603,
+          "61": 594,
+          "42": 573,
+          "80": 523,
+          "46": 499,
+          "57": 470,
+          "58": 447,
+          "68": 439,
+          "82": 400,
+          "33": 371,
+          "75": 364,
+          "70": 352,
+          "25": 317,
+          "81": 297,
+          "63": 296,
+          "64": 289,
+          "20": 285,
+          "44": 283,
+          "79": 280,
+          "41": 266,
+          "73": 258,
+          "35": 223,
+          "38": 223,
+          "34": 217,
+          "54": 215,
+          "83": 212,
+          "76": 196,
+          "78": 189,
+          "71": 188,
+          "56": 171,
+          "59": 151,
+          "32": 129,
+          "48": 129,
+          "85": 119,
+          "24": 105,
+          "47": 105
+        },
+        "avg_selling_price": {
+          "499.00": 1899,
+          "2999.00": 1860,
+          "699.00": 1520,
+          "799.00": 1429,
+          "749.00": 1411,
+          "999.00": 1305,
+          "399.00": 1032,
+          "299.00": 1011,
+          "599.00": 940,
+          "475.00": 803,
+          "449.00": 780,
+          "899.00": 730,
+          "477.00": 645,
+          "4999.00": 575,
+          "549.00": 511,
+          "349.00": 466,
+          "485.00": 430,
+          "849.00": 427,
+          "482.00": 390,
+          "469.00": 377,
+          "1299.00": 367,
+          "649.00": 356,
+          "484.00": 320,
+          "509.00": 311,
+          "848.00": 311,
+          "561.00": 295,
+          "2499.00": 286,
+          "1449.00": 270,
+          "1349.00": 250,
+          "563.00": 245,
+          "461.00": 230,
+          "489.00": 192,
+          "1199.00": 191,
+          "487.00": 185,
+          "249.00": 180,
+          "2949.00": 174,
+          "494.00": 173,
+          "1999.00": 170,
+          "275.00": 170,
+          "493.00": 170,
+          "572.00": 165,
+          "333.00": 160,
+          "498.00": 151,
+          "698.00": 151,
+          "1498.00": 144,
+          "209.00": 144,
+          "496.00": 140,
+          "1998.00": 132,
+          "574.00": 130,
+          "335.00": 125
+        },
+        "category_level.level2": {
+          "Men": 31975
+        },
+        "category_level.level4": {
+          "Casual Shoes": 31975
+        }
+      },
+      "facets_stats": {
+        "in_stock": {
+          "min": 1,
+          "max": 1,
+          "avg": 1,
+          "sum": 31975
+        },
+        "avg_discount_pct": {
+          "min": 0,
+          "max": 92,
+          "avg": 47,
+          "sum": 1523719
+        },
+        "avg_selling_price": {
+          "min": 178,
+          "max": 8499,
+          "avg": 964.613,
+          "sum": 3.08435e7
+        }
+      },
+      "exhaustiveFacetsCount": false,
+      "exhaustiveNbHits": false,
+      "exhaustiveTypo": true,
+      "exhaustive": {
+        "facetsCount": false,
+        "nbHits": false,
+        "typo": true
+      },
+      "query": "",
+      "queryAfterRemoval": "",
+      "params": "ruleContexts=%5B%22PLP%22%5D&query=&filters=category_ids%3A496%20AND%20availability_status%3AA%20AND%20(available_stores%3APANINDIAFASHION)%20AND%20(store_wise_mrp.PANINDIAFASHION.available%3Atrue)%20AND%20(inventory_stores%3AALL%20OR%20inventory_stores%3Afashion_zone%20OR%20inventory_stores%3Ageneral_zone%20OR%20inventory_stores%3A8080%20)&clickAnalytics=true&highlightPreTag=__ais-highlight__&highlightPostTag=__%2Fais-highlight__&page=0&maxValuesPerFacet=50&facets=%5B%22in_stock%22%2C%22category_level.level2%22%2C%22category_level.level4%22%2C%22size%22%2C%22brand%22%2C%22productgroups%22%2C%22colour%22%2C%22fit%22%2C%22fabrictype%22%2C%22pattern%22%2C%22neckline%22%2C%22sleeve%22%2C%22waistrise%22%2C%22distress%22%2C%22sport%22%2C%22sizegroup%22%2C%22style%22%2C%22mood%22%2C%22washcare%22%2C%22dresslength%22%2C%22skirtlength%22%2C%22avg_selling_price%22%2C%22avg_discount_pct%22%5D&tagFilters=&facetFilters=%5B%5B%22category_level.level4%3ACasual%20Shoes%22%5D%5D",
+      "index": "prod_mart_fashion_products_popularity",
+      "queryID": "a1f45376fc9daaac0cdfbb326930a510",
+      "appliedRelevancyStrictness": 0,
+      "renderingContent": {},
+      "processingTimeMS": 56,
+      "processingTimingsMS": {
+        "afterFetch": {
+          "merge": {
+            "distinct": 3
+          },
+          "total": 5
+        },
+        "fetch": {
+          "faceting": 6,
+          "scanning": 30,
+          "total": 49
+        },
+        "getIdx": {
+          "load": {
+            "total": 1
+          },
+          "total": 1
+        },
+        "total": 56
+      }
+    },
+    {
+      "hits": [
+        {
+          "objectID": "591149947"
+        }
+      ],
+      "nbHits": 18649,
+      "nbSortedHits": 2000,
+      "page": 0,
+      "nbPages": 2000,
+      "hitsPerPage": 1,
+      "facets": {
+        "category_level.level4": {
+          "Casual Shoes": 10514,
+          "Tshirts": 7656,
+          "Flip-Flops & Slippers": 4701,
+          "Shirts": 4096,
+          "Sports Shoes": 3368,
+          "Sweatshirt & Hoodies": 2410,
+          "Jeans": 1847,
+          "Kurta Pyjama Sets": 1795,
+          "Track Pants": 1691,
+          "Kurtas": 1358,
+          "Analog Watches": 1284,
+          "Vests": 1204,
+          "Jackets": 1190,
+          "Formal Shoes": 1183,
+          "Sandals": 1155,
+          "Ethnic Jackets": 1112,
+          "Trousers & Pants": 1058,
+          "Shorts & 3/4ths": 930,
+          "Boxers": 827,
+          "Caps & Hats": 793,
+          "Sweaters & Cardigans": 503,
+          "Dhoti": 498,
+          "Briefs": 484,
+          "Belts": 407,
+          "Wallets": 405,
+          "Sunglasses": 399,
+          "Sneakers": 382,
+          "Socks": 373,
+          "Rainwear & Windcheater": 265,
+          "Bracelets & Kadas": 219,
+          "Thermal Wear": 215,
+          "Trunks": 193,
+          "Shirt Pieces": 147,
+          "Ethnic Suit Sets": 140,
+          "Blazers & Coats": 121,
+          "Rakhis": 118,
+          "Pyjamas": 117,
+          "Rings": 111,
+          "Tracksuits": 96,
+          "Fashion Bags": 95,
+          "Shorts": 94,
+          "Digital Watches": 87,
+          "Chains": 72,
+          "Jackets & Coats": 70,
+          "Frames": 61,
+          "Sherwani Sets": 61,
+          "Accessories Combo & Gift Sets": 60,
+          "Fashion Backpacks": 53,
+          "Watch Straps & Bands": 51,
+          "Mufflers": 37
+        }
+      },
+      "exhaustiveFacetsCount": false,
+      "exhaustiveNbHits": false,
+      "exhaustiveTypo": true,
+      "exhaustive": {
+        "facetsCount": false,
+        "nbHits": false,
+        "typo": true
+      },
+      "query": "",
+      "queryAfterRemoval": "",
+      "params": "ruleContexts=%5B%22PLP%22%5D&query=&filters=category_ids%3A496%20AND%20availability_status%3AA%20AND%20(available_stores%3APANINDIAFASHION)%20AND%20(store_wise_mrp.PANINDIAFASHION.available%3Atrue)%20AND%20(inventory_stores%3AALL%20OR%20inventory_stores%3Afashion_zone%20OR%20inventory_stores%3Ageneral_zone%20OR%20inventory_stores%3A8080%20)&clickAnalytics=false&highlightPreTag=__ais-highlight__&highlightPostTag=__%2Fais-highlight__&page=0&maxValuesPerFacet=50&hitsPerPage=1&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&facets=category_level.level4",
+      "index": "prod_mart_fashion_products_popularity",
+      "appliedRelevancyStrictness": 0,
+      "renderingContent": {},
+      "processingTimeMS": 62,
+      "processingTimingsMS": {
+        "afterFetch": {
+          "merge": {
+            "distinct": 5
+          },
+          "total": 6
+        },
+        "fetch": {
+          "distinct": 1,
+          "faceting": 16,
+          "scanning": 33,
+          "total": 54
+        },
+        "getIdx": {
+          "load": {
+            "total": 1
+          },
+          "total": 1
+        },
+        "total": 62
+      }
+    }
+  ]
+}

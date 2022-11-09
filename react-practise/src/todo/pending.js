@@ -7,7 +7,7 @@ const YourTodo = (props) => {
 
   const iterate = (arr) => {
     //return js element to show list
-    return arr.map((obj) => (
+    return arr.map((obj, index) => (
       <ItemContainer justify="space-around" key={obj.title}>
         <p>{obj.title}</p>
         <div>
