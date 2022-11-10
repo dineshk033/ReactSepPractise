@@ -2,46 +2,50 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## External Fonts in our appn
+
+https://fonts.google.com/
+
 ## Project structure samples
 
-src
---asset
-logo
-image
-json
--pages
--homepage
--single-product
--search-result
--cart
--favourite-item
--cancellation
--payment
--confirmation
-fetaures
-core
--header
--footer
-shared
-component
--card
--template1
--template2
-button
--addtocart
--buynow
--shownow
--view all
-list-card
--paginated-list
--view-all-list
-homepage  
- index.jsx
-categories
-banner
-top-product-list
-article
-subscribe
+    src
+     --asset
+    logo
+    image
+    json
+    pages
+        -homepage
+        -single-product
+        -search-result
+        -cart
+        -favourite-item
+        -cancellation
+        -payment
+        -confirmation
+    fetaures
+        core
+            -header
+            -footer
+    shared
+        component
+        -card
+        -template1
+        -template2
+        button
+        -addtocart
+        -buynow
+        -shownow
+        -view all
+        list-card
+        -paginated-list
+        -view-all-list
+    homepage
+    index.jsx
+    categories
+    banner
+    top-product-list
+    article
+    subscribe
 
     hooks
     context
@@ -51,19 +55,19 @@ subscribe
 
 ### `API response Format`
 
-display_name
-in_stock
-image_url
-categories
-price
-discount
-color
-size(optional)
-seller_names
-brand
-description
-review
-ratings
+    display_name
+    in_stock
+    image_url
+    categories
+    price
+    discount
+    color
+    size(optional)
+    seller_names
+    brand
+    description
+    review
+    ratings
 
 ## Available Scripts
 
