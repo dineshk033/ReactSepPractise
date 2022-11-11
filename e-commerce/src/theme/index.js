@@ -4,6 +4,8 @@ export const theme = {
     secondary: "#FFBC1F",
     dark: "#25282B",
     light: "#fff",
+    lightGrey: "#D3D4D5",
+    success: "#54B435",
   },
   headingFontSize: {
     vxlg: "72px",
