@@ -7,12 +7,13 @@ export const ContainerFluid = styled.div`
 export const Caption = styled.div`
   font-size: ${(props) => props.theme.fontSize[props.fontSize]};
   color: ${(props) => props.theme.color[props.color]};
-  font-weight: bold;
+  font-weight: ${(props) => (props.bold ? "bold" : 400)};
 `;
 
 Caption.defaultProps = {
   fontSize: "xm",
   color: "lightGrey",
+  bold: false,
 };
 
 export const Title = styled.h5`

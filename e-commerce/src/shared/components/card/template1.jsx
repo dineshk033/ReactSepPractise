@@ -8,10 +8,16 @@ const Container = styled.div`
 const TemplateOne = ({ image_url, display_name, brand }) => {
   return (
     <Container>
-      <img src={image_url} alt={display_name} width="100%" height="200" />
-      <Caption>{brand}</Caption>
+      <img
+        style={{ marginBottom: "10px" }}
+        src={image_url}
+        alt={display_name}
+        width="100%"
+        height="200"
+      />
+      <Caption fontSize="md">{brand}</Caption>
       <Title fontSize="xm">{display_name}</Title>
-      <Caption color="success" fontSize="md">
+      <Caption bold color="success" fontSize="md">
         upto 75% off
       </Caption>
     </Container>
@@ -22,7 +28,7 @@ TemplateOne.defaultProps = {
   display_name: "Awesome Granite Sausages Becker and Borer",
   in_stock: "6",
   image_url: "https://loremflickr.com/640/480/fashion?lock=80096",
-  categories: "Mouse",
+  categories: "Mouse, Fashion",
   price: "$361",
   discount: "3",
   color: "grey",
