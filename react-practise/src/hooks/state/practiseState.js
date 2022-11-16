@@ -23,6 +23,7 @@ const PractiseState = () => {
      */
     setState({ ...state, list: filteredRecords });
   };
+
   return (
     <>
       <h5>Shoe's Brand</h5>

@@ -6,6 +6,7 @@ import Homepage from "./page/homepage";
 import { ThemeProvider } from "styled-components";
 import { theme } from "./theme";
 import Header from "./features/core/header";
+import { SearchPageComponent } from "./page/search-page";
 
 function App() {
   const [state, setState] = useState([]);
@@ -17,7 +18,8 @@ function App() {
     <>
       <ThemeProvider theme={theme}>
         <Header />
-        <Homepage data={state} />
+        <SearchPageComponent />
+        {/* <Homepage data={state} /> */}
       </ThemeProvider>
     </>
   );
