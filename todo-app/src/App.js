@@ -1,10 +1,11 @@
 import Task from "./component";
+import Login from "./component/login";
 
 function App() {
   return (
-    <div className="container my-5">
-      <h6>App</h6>
+    <div className="container">
       <Task />
+      {/* <Login /> */}
     </div>
   );
 }
