@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { AxiosInstance } from "../axios";
 import AddTodo from "./addTodo";
 import Completed from "./completed";
+import Header from "./header";
 import Pending from "./pending";
 
 function Task() {
@@ -64,6 +65,7 @@ function Task() {
 
   return (
     <>
+      <Header />
       <AddTodo handleSubmit={handleSubmit} />
       <div className="row g-3 mt-5">
         <div className="col">
