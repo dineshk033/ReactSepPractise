@@ -1,15 +1,27 @@
+import { NavLink } from "react-router-dom";
+
 const Header = () => {
   return (
     <ul className="nav nav-tabs">
       <li className="nav-item">
-        <a className="nav-link active" aria-current="page" href="#">
+        <NavLink
+          to="/home"
+          className={({ isActive }) =>
+            isActive ? "nav-link active" : "nav-link"
+          }
+        >
           Home
-        </a>
+        </NavLink>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">
+        <NavLink
+          to="/about"
+          className={({ isActive }) =>
+            isActive ? "nav-link active" : "nav-link"
+          }
+        >
           About
-        </a>
+        </NavLink>
       </li>
     </ul>
   );

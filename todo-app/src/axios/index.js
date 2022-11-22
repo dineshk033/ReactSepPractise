@@ -11,4 +11,4 @@ export const AxiosInstance = axios.create({
  * only add when token is mandatory below line
  */
 AxiosInstance.defaults.headers.common["Authorization"] =
-  "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzUxYTJjMjZkNmYwZjAwMTc5MzIyMGQiLCJpYXQiOjE2Njg5NjE4OTJ9.L0gtxsL5pXs9oFRzNDEh-RpG-zAvu1-OxLdMSHkDHKY";
+  "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzUxYTJjMjZkNmYwZjAwMTc5MzIyMGQiLCJpYXQiOjE2NjkwOTM5NTd9.cJ2T4DKd0fwm2qBmiE_2IXXAt6TW0YTDVlzP1VT3KRA";
