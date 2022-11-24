@@ -5,6 +5,7 @@ const Layout = () => {
   return (
     <>
       <Header />
+      <div className="alert alert-danger">Dummy text</div>
       <Outlet />
     </>
   );
