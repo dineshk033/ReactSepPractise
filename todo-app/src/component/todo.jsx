@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
+import { AuthContext1 } from "../App";
 import { AxiosInstance } from "../axios";
 import AddTodo from "./addTodo";
 import Completed from "./completed";
@@ -9,7 +10,8 @@ function Task() {
   const [error, setError] = useState("");
   const [isLoading, setIsLoading] = useState(false);
   const [completed, setCompleted] = useState([]);
-
+  const tokenValue = useContext(AuthContext1);
+  console.log(tokenValue);
   const fetchPending = async () => {
     try {
       setError("");

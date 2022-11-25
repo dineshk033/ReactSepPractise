@@ -1,23 +1,27 @@
-import { useState } from "react";
+import { useContext, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import { AxiosInstance } from "../axios";
+import { AuthContext } from "../context";
 
 const Login = () => {
   const [state, setState] = useState({ email: "", password: "" });
   let navigate = useNavigate();
   let location = useLocation();
-
+  let value = useContext(AuthContext);
   let from = location.state?.from?.pathname || "/";
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    AxiosInstance.post("/user/login", state)
-      .then((res) => {
-        console.log(res);
-        localStorage.setItem("jwt_token", res.token);
-        navigate(from, { replace: true });
-      })
-      .catch((err) => console.log(err));
+    value.login(state, () => {
+      navigate(from, { replace: true });
+    });
+    // AxiosInstance.post("/user/login", state)
+    //   .then((res) => {
+    //     console.log(res);
+    //     localStorage.setItem("jwt_token", res.token);
+    //     navigate(from, { replace: true });
+    //   })
+    //   .catch((err) => console.log(err));
   };
   const handleChange = (event) => {
     const name = event.target.name;
